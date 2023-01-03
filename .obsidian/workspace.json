@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +148,10 @@
   },
   "active": "1bfa39933502fcd3",
   "lastOpenFiles": [
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+    "README.md",
     "Basic Course/Csapp/大纲内容.md",
     "Computer Graphics/Untitled.md",
     "Test.md"
