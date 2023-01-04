@@ -36,5 +36,12 @@ synthesize manipulate
 	- Break projected primitives into fragments (pixels)
 	- Gold standard in Video Games (Real-time Applications)
 - Curves and Meshes
+	- How to represent geometry in C G
 - Ray Tracing
+	- Shoot rays from the camera through each pixel
+		- Calculate intersection and shading
+		- Continue to bounce the rays till they hit light sources
+	- Gold standard in Animations / Movies (Offline Applications)
 - Animation / Simulation
+	- Key frame Animation
+	- Mass-spring System
