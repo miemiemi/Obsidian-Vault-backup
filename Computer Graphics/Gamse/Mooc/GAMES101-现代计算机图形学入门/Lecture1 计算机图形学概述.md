@@ -29,12 +29,4 @@ synthesize manipulate
 	- Representing / operating shapes in 3D
 	- Animation / simulation
 
-testtest 我可以写点什么吗
-
-可以写啥
-
-看看写了啥
-
-我看看
-
 
