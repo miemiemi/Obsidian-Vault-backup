@@ -29,4 +29,12 @@ synthesize manipulate
 	- Representing / operating shapes in 3D
 	- Animation / simulation
 
+# Course Topics
 
+- Rasterization
+	- Project geometry primitives (3D triangles / polygons) onto the screen
+	- Break projected primitives into fragments (pixels)
+	- Gold standard in Video Games (Real-time Applications)
+- Curves and Meshes
+- Ray Tracing
+- Animation / Simulation
