@@ -45,3 +45,13 @@ synthesize manipulate
 - Animation / Simulation
 	- Key frame Animation
 	- Mass-spring System
+
+# Course Logistics
+- Modern Course
+- 
+# Assignments
+
+* Mostly programming tasks with provided code skeletons and virtual machine image
+* Weekly
+* Language: C++
+

@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "eadbf3fa02d40164",
-        "type": "tabs",
+        "id": "af17021e18ff6a98",
+        "type": "split",
         "children": [
           {
-            "id": "638aa8499b563ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
-                "mode": "source",
-                "source": false
+            "id": "eadbf3fa02d40164",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "686840cd60d52847",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "00c4cb88815ac0a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "feb61793a6644ea9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md"
               }
             }
           },
@@ -148,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,11 +191,12 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "638aa8499b563ed7",
+  "active": "4829fa6b92c4aea2",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "README.md",
     "Basic Course/Csapp/大纲内容.md",
     "Computer Graphics/Untitled.md",
