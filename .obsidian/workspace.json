@@ -133,14 +133,11 @@
             }
           },
           {
-            "id": "f29254492af99acc",
+            "id": "edcedbb0a2dd76bb",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "langr-learn-panel",
+              "state": {}
             }
           },
           {
@@ -154,11 +151,14 @@
             }
           },
           {
-            "id": "edcedbb0a2dd76bb",
+            "id": "f29254492af99acc",
             "type": "leaf",
             "state": {
-              "type": "langr-learn-panel",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,7 +191,7 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "4829fa6b92c4aea2",
+  "active": "686840cd60d52847",
   "lastOpenFiles": [
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
