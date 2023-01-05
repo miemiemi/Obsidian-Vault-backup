@@ -28,6 +28,7 @@ synthesize manipulate
 	- Physics of lighting and shading
 	- Representing / operating shapes in 3D
 	- Animation / simulation
+---
 
 # Course Topics
 
@@ -45,6 +46,7 @@ synthesize manipulate
 - Animation / Simulation
 	- Key frame Animation
 	- Mass-spring System
+---
 
 # Course Logistics
 - Modern Course
