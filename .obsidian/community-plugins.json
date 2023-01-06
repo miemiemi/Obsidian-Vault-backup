@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-language-learner",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-annotator",
+  "dataview"
 ]
