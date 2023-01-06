@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dde2db51db58814a",
-        "type": "split",
+        "id": "6803b04032d3e7f6",
+        "type": "tabs",
         "children": [
           {
-            "id": "2909f9c49396bd37",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f64f003696506c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture4 变换 （模型、视图、投影）.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "cf5b175aee731c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c12c78b4f7d48ea7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8c94760bd8e5a6d4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_04.pdf"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ae514d1b6564be94",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture4 变换 （模型、视图、投影）.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture4 变换 （模型、视图、投影）.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture4 变换 （模型、视图、投影）.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md"
               }
             }
           },
@@ -173,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,17 +168,52 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "8f64f003696506c3",
+  "floating": {
+    "id": "ab1f7b5bd18d5ed9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "24ea1e37d03ebc8b",
+        "type": "window",
+        "children": [
+          {
+            "id": "868103c3451d96ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0b47fc67799369b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 974,
+        "y": 337,
+        "width": 914,
+        "height": 725,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cf5b175aee731c9b",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture4 变换 （模型、视图、投影）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_05.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_04.pdf",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture3 变换 （二维与三维）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/lecture2 向量与线性代数.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Lecture1 计算机图形学概述.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_03.pdf",
-    "Computer Graphics/Gamse/Mooc/Untitled.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture3 变换 （二维与三维）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture2 向量与线性代数.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_03.pdf"
   ]
 }
