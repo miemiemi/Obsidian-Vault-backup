@@ -19,14 +19,23 @@
 
 ---
 
-# Viewing (观测) transformation
+# Viewing (视图) transformation
 
 - View (视图) / Camera transformation
 	- What is view transformation ?
 		- Think about how to take a photo
-			- Find a good place and arrange people (**model** transformation)
+			- Find a good place and arrange people (**model** transformation) 把东西摆好
 			- Find a good “angle” to put the camera (**view** transformation)
-			- Cheese! (**projection** transformation)
+			- Cheese! (**projection** transformation) 投影成像
+	- How to perform view transformation ?
+		- [[GAMES101_Lecture_04#^t5l6z1vnt|Define the camera first]]
+			- Position 
+			- Look-at / gaze direction
+			- Up direction (相机的旋转)
+	- Key observation (把相机移动到标准位置上)
+		- Always transform the camera to
+			- The origin, up at Y, look at -Z
+		- And transform the objects along with the camera
 
 - Projection (投影) transformation 
 - Orthographic (正交) projection 
