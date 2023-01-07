@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ae514d1b6564be94",
@@ -194,10 +193,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 974,
-        "y": 337,
-        "width": 914,
-        "height": 725,
+        "x": 1097,
+        "y": 620,
+        "width": 1098,
+        "height": 567,
         "maximize": false,
         "zoom": 0
       }
@@ -205,11 +204,11 @@
   },
   "active": "cf5b175aee731c9b",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_05.pdf",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_04.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture3 变换 （二维与三维）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture2 向量与线性代数.md",
