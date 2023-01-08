@@ -53,16 +53,13 @@
 		- Drop Z coordinate
 		- Translate and **scale** the resulting rectangle to $[-1, 1]^2$
 	- [[GAMES101_Lecture_04#^jfdkuzdhqm|In general]]
-		- 
+		- canonical cube
+		- Slightly different orders (to the “simple way”)
+			- Center cuboid by translating
+			- Scale into “canonical” cube
+	- [[GAMES101_Lecture_04#^32h461n1b4e|Transformation matrix?]]
+	- Caveat
+		- Looking at / along -Z is making near and far not intuitive (n > f)
+		- FYI: that’s why OpenGL (a Graphics API) uses left hand coords.
 - Perspective (透视) projection
 
-- 12100f 470
-- h610i 500
-- ax210 100
-- 技嘉1660s 600
-- 科赋 8 * 2 230
-- rc20 380
-- 500g sata 180
-- axp90 47 120
-- 400w 康舒 300
-- zs a4m v3 300
