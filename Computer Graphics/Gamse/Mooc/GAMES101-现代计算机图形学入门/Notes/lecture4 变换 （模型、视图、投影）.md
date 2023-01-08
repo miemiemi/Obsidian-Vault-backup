@@ -36,7 +36,33 @@
 		- Always transform the camera to
 			- The origin, up at Y, look at -Z
 		- And transform the objects along with the camera
+	- Transform the camera by $M_{view}$
+		- $M_{view}$  [[GAMES101_Lecture_04#^tonv8eahvp|in math? ]]
+	- Summary
+		- Transform objects together with the camera
+		- Until camera’s at the origin, up at Y, look at -Z
+---
 
-- Projection (投影) transformation 
+# Projection (投影) transformation 
+
+[[GAMES101_Lecture_04#^p0sbkzesjmf|Perspective projection vs. orthographic projection]]
+
 - Orthographic (正交) projection 
+	- [[GAMES101_Lecture_04#^yldhimm9cnf|A simple way of understanding]]
+		- Camera located at origin, looking at -Z, up at Y
+		- Drop Z coordinate
+		- Translate and **scale** the resulting rectangle to $[-1, 1]^2$
+	- [[GAMES101_Lecture_04#^jfdkuzdhqm|In general]]
+		- 
 - Perspective (透视) projection
+
+- 12100f 470
+- h610i 500
+- ax210 100
+- 技嘉1660s 600
+- 科赋 8 * 2 230
+- rc20 380
+- 500g sata 180
+- axp90 47 120
+- 400w 康舒 300
+- zs a4m v3 300
