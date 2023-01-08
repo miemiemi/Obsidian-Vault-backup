@@ -62,4 +62,8 @@
 		- Looking at / along -Z is making near and far not intuitive (n > f)
 		- FYI: that’s why OpenGL (a Graphics API) uses left hand coords.
 - Perspective (透视) projection
+	- Most common in Computer Graphics, art, visual system
+	- Further objects are smaller
+	- Parallel lines not parallel; converge to single point
+	- 
 
