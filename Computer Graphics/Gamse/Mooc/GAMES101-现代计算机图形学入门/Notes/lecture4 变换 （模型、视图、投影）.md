@@ -65,5 +65,12 @@
 	- Most common in Computer Graphics, art, visual system
 	- Further objects are smaller
 	- Parallel lines not parallel; converge to single point
-	- 
+	- [[GAMES101_Lecture_04#^3zu5jktbh7|property of homogeneous coordinates]]
+	- [[GAMES101_Lecture_04#^yhz2mkvb8cc|How to do perspective projection]]
+		- First “**squish**” the frustum into a cuboid
+		- Do orthographic projection
+		- [[GAMES101_Lecture_04#^s3117qjs1b|In order to find a transformation]]
+			- similar triangle
+			- Find the relationship between transformed points (x’, y’, z’) and the original points (x, y, z)
+			- $y^\prime = \frac nz y$  $x^\prime = \frac nz x$
 
