@@ -73,4 +73,8 @@
 			- similar triangle
 			- Find the relationship between transformed points (x’, y’, z’) and the original points (x, y, z)
 			- $y^\prime = \frac nz y$  $x^\prime = \frac nz x$
-
+			- [[GAMES101_Lecture_04#^dj3p1urfizk|In homogeneous coordinates,]]
+			- [[GAMES101_Lecture_04#^tayr5zueqy|Already good enough to figure out part of Mpersp->ortho]]
+			- [[GAMES101_Lecture_04#^g4mp9ydbffq|How to figure out the third row of Mpersp->ortho ]]
+		- [[GAMES101_Lecture_04#^yc40brtwf9s|Finally, every entry in Mpersp->ortho is known! ]]
+	- Next Do **orthographic** projection (Mortho) to finish
