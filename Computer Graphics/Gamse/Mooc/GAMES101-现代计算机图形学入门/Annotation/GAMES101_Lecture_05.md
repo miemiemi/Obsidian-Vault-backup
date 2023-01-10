@@ -57,3 +57,45 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-çŽ°ä
 >%%TAGS%%
 >
 ^9ezcyq6htde
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-10T03:33:58.450Z","updated":"2023-01-10T03:33:58.450Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715"}],"documentFingerprint":"defa013c17ab19c0e08e4f6f5dc48715"},"uri":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","target":[{"source":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","selector":[{"type":"TextPositionSelector","start":11164,"end":11179},{"type":"TextQuoteSelector","exact":"Triangle Meshes","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 28GAMES101 Lingqi Yan, UC Santa"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Triangle Meshes== %%POSTFIX%%28GAMES101 Lingqi Yan, UC Santa*
+>%%LINK%%[[#^09mhuehlcr55|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^09mhuehlcr55
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-10T04:11:02.429Z","updated":"2023-01-10T04:11:02.429Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715"}],"documentFingerprint":"defa013c17ab19c0e08e4f6f5dc48715"},"uri":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","target":[{"source":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","selector":[{"type":"TextPositionSelector","start":11874,"end":11893},{"type":"TextQuoteSelector","exact":"Sampling a Function","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Evaluating a function at a point"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Sampling a Function== %%POSTFIX%%Evaluating a function at a point*
+>%%LINK%%[[#^3z2mtjehrie|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3z2mtjehrie
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-10T04:16:15.109Z","updated":"2023-01-10T04:16:15.109Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715"}],"documentFingerprint":"defa013c17ab19c0e08e4f6f5dc48715"},"uri":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","target":[{"source":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","selector":[{"type":"TextPositionSelector","start":12379,"end":12402},{"type":"TextQuoteSelector","exact":"Define Binary Function:","prefix":"xel Center Is Inside Triangle 36","suffix":" inside(tri, x, y) inside(t, x, "}]}]}
+>```
+>%%
+>*%%PREFIX%%xel Center Is Inside Triangle 36%%HIGHLIGHT%% ==Define Binary Function:== %%POSTFIX%%inside(tri, x, y) inside(t, x,*
+>%%LINK%%[[#^a5w4y380amk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a5w4y380amk

@@ -27,3 +27,22 @@
 # Rasterizing Triangles into Pixels
 
 Frame Buffer: Memory for a Raster Display
+
+Polygon Meshes  
+Triangle Meshes
+- Triangles - Fundamental Shape Primitives
+	- Why triangles?
+		- Most basic polygon
+		- Break up other polygons
+	- Unique properites
+		- Guaranteed to be planar
+		- Well-defined interior (容易判别是否在内部)
+		- Well-defined method for interpolating values at vertices over triangle (barycentric interpolation)
+- Sampling (采样)
+	- [[GAMES101_Lecture_05#^3z2mtjehrie|Sampling a Function]]
+	- Evaluating a function at a point is sampling.  We can discretize a function by sampling.
+	- Sampling is a **core idea** in graphics.  We sample time (1D), area (2D), direction (2D), volume (3D) ..
+- Rasterization As 2D Sampling
+	- Sample If Each Pixel Center Is **Inside** Triangle
+	- [[GAMES101_Lecture_05#^a5w4y380amk|Define Binary Function:]]
+	- 
