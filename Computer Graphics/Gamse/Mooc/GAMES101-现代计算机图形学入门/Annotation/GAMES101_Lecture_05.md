@@ -29,3 +29,31 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^21coa3muozt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-09T16:28:18.725Z","updated":"2023-01-09T16:28:18.725Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715"}],"documentFingerprint":"defa013c17ab19c0e08e4f6f5dc48715"},"uri":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","target":[{"source":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","selector":[{"type":"TextPositionSelector","start":6415,"end":6440},{"type":"TextQuoteSelector","exact":"Defining the screen space","prefix":"BarbaraCanonical Cube to Screen•","suffix":" - Slightly different from the “"}]}]}
+>```
+>%%
+>*%%PREFIX%%BarbaraCanonical Cube to Screen•%%HIGHLIGHT%% ==Defining the screen space== %%POSTFIX%%- Slightly different from the “*
+>%%LINK%%[[#^fh2ik3qcjf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^fh2ik3qcjf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-09T16:33:36.821Z","updated":"2023-01-09T16:33:36.821Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715"}],"documentFingerprint":"defa013c17ab19c0e08e4f6f5dc48715"},"uri":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","target":[{"source":"urn:x-pdf:defa013c17ab19c0e08e4f6f5dc48715","selector":[{"type":"TextPositionSelector","start":7049,"end":7074},{"type":"TextQuoteSelector","exact":"Viewport transform matrix","prefix":"]2 to [0, width] x [0, height] •","suffix":":Mviewport =0BB@width20 0 width2"}]}]}
+>```
+>%%
+>*%%PREFIX%%]2 to [0, width] x [0, height] •%%HIGHLIGHT%% ==Viewport transform matrix== %%POSTFIX%%:Mviewport =0BB@width20 0 width2*
+>%%LINK%%[[#^9ezcyq6htde|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9ezcyq6htde
