@@ -45,4 +45,15 @@ Triangle Meshes
 - Rasterization As 2D Sampling
 	- Sample If Each Pixel Center Is **Inside** Triangle
 	- [[GAMES101_Lecture_05#^a5w4y380amk|Define Binary Function:]]
-	- 
+	- [[GAMES101_Lecture_05#^owgkf45otgd|Evaluating inside(tri, x, y)]]
+	- [[GAMES101_Lecture_05#^mx2mym3kyta|Edge Cases (Literally)]]
+	- [[GAMES101_Lecture_05#^e3evldtmfb4|Checking All Pixels on the Screen?]] (不看全部的像素 只看区域内的Bounding Box 轴向包围盒 axis-aligned bounding box )
+	- [[GAMES101_Lecture_05#^v0t5oynccy|Incremental Triangle Traversal (Faster?)]]
+---
+
+# Rasterization on  Real Displays  
+
+- [[GAMES101_Lecture_05#^1lzr80vahoi|Real LCD Screen Pixels (Closeup)]]
+- [[GAMES101_Lecture_05#^8l6y9pmhmdo|Color print: observe half-tone pattern]]
+- [[GAMES101_Lecture_05#^dhqtwrljx1f|Assume Display Pixels Emit Square of Light]]
+- [[GAMES101_Lecture_05#^f40974qxw1a|Aliasing (Jaggies)]]
