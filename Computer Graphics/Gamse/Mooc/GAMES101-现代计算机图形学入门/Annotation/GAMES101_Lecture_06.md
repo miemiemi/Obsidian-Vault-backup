@@ -28,3 +28,17 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-ç°ä
 >%%TAGS%%
 >
 ^x90xfjbahdl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-14T14:50:11.972Z","updated":"2023-01-14T14:50:11.972Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":4331,"end":4370},{"type":"TextQuoteSelector","exact":"Undersampling Creates Frequency Aliases","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 33High-frequency signal is insu"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Undersampling Creates Frequency Aliases== %%POSTFIX%%33High-frequency signal is insu*
+>%%LINK%%[[#^o6uttc18fe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o6uttc18fe

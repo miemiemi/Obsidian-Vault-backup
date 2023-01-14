@@ -18,7 +18,9 @@
 	- Fourier Transform
 		- Represent a function as a  weighted sum of sines and cosines
 		- Fourier Transform Decomposes A Signal Into Frequencies
-		- Higher Frequencies Need Faster Sampling
+		- Higher Frequencies Need Faster Sampling 
+	- [[GAMES101_Lecture_06#^o6uttc18fe|Undersampling Creates Frequency Aliases]]
+	- erroneously
 
 ---
 

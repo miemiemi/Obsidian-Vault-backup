@@ -193,10 +193,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1097,
-        "y": 593,
-        "width": 1098,
-        "height": 594,
+        "x": 1096,
+        "y": 592,
+        "width": 1102,
+        "height": 598,
         "maximize": false,
         "zoom": 0
       }
@@ -204,9 +204,9 @@
   },
   "active": "52b0c17457c41c33",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_06.pdf",
