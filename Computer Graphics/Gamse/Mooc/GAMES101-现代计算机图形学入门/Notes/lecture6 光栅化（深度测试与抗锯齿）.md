@@ -16,7 +16,9 @@
 	- [[GAMES101_Lecture_06#^x90xfjbahdl|Sample then filter, WRONG!]]
 - **Frequency Domain**
 	- Fourier Transform
-		- Represent a function as a  weighted sum of sines and  cosines
+		- Represent a function as a  weighted sum of sines and cosines
+		- Fourier Transform Decomposes A Signal Into Frequencies
+		- Higher Frequencies Need Faster Sampling
 
 ---
 
