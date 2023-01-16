@@ -21,10 +21,15 @@
 		- Higher Frequencies Need Faster Sampling 
 	- [[GAMES101_Lecture_06#^o6uttc18fe|Undersampling Creates Frequency Aliases]]
 	- erroneously
-- Filtering
+- Filtering (科普内容)
 	- Getting rid of  certain frequency contents 删除特定频率
 	- [[GAMES101_Lecture_06#^iqu3c221lg|Visualizing Image Frequency Content ]]
 	- [[GAMES101_Lecture_06#^5cm2f2xe8qt|Filter Out Low Frequencies Only (Edges)]] (高通滤波)
+	- [[GAMES101_Lecture_06#^twtca1dw35|Filter Out High Frequencies (Blur)]](低通滤波)
+	- [[GAMES101_Lecture_06#^22r0euqir7r|Filter Out Low and High Frequencies]]
+- **Filtering = Convolution (= Averaging)**
+- [[GAMES101_Lecture_06#^hr61fonnl5|Convolution]] 卷积科普
+	- [[GAMES101_Lecture_06#^nqn911qkvqr|Convolution Theorem]]
 	- 
 
 ---
