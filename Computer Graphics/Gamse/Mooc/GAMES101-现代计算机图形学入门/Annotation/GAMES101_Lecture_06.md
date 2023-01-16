@@ -42,3 +42,31 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-çŽ°ä
 >%%TAGS%%
 >
 ^o6uttc18fe
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T04:43:19.709Z","updated":"2023-01-16T04:43:19.709Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":4662,"end":4698},{"type":"TextQuoteSelector","exact":"Visualizing Image Frequency Content ","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 35GAMES101 Lingqi Yan, UC Santa"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Visualizing Image Frequency Content== %%POSTFIX%%35GAMES101 Lingqi Yan, UC Santa*
+>%%LINK%%[[#^iqu3c221lg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^iqu3c221lg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T04:44:50.024Z","updated":"2023-01-16T04:44:50.024Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":4738,"end":4777},{"type":"TextQuoteSelector","exact":"Filter Out Low Frequencies Only (Edges)","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 36High-pass filterGAMES101 Ling"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Filter Out Low Frequencies Only (Edges)== %%POSTFIX%%36High-pass filterGAMES101 Ling*
+>%%LINK%%[[#^5cm2f2xe8qt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5cm2f2xe8qt

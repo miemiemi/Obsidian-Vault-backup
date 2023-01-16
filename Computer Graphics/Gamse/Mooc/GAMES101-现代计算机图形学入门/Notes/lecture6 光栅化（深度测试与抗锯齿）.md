@@ -21,6 +21,11 @@
 		- Higher Frequencies Need Faster Sampling 
 	- [[GAMES101_Lecture_06#^o6uttc18fe|Undersampling Creates Frequency Aliases]]
 	- erroneously
+- Filtering
+	- Getting rid of  certain frequency contents 删除特定频率
+	- [[GAMES101_Lecture_06#^iqu3c221lg|Visualizing Image Frequency Content ]]
+	- [[GAMES101_Lecture_06#^5cm2f2xe8qt|Filter Out Low Frequencies Only (Edges)]] (高通滤波)
+	- 
 
 ---
 
