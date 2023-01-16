@@ -167,46 +167,11 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "floating": {
-    "id": "ab1f7b5bd18d5ed9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "19a0f3c0ee62eb6f",
-        "type": "window",
-        "children": [
-          {
-            "id": "746ec0ad700609bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fdc6d1992169e050",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf-annotator",
-                  "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1096,
-        "y": 592,
-        "width": 1102,
-        "height": 598,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "52b0c17457c41c33",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_06.pdf",
