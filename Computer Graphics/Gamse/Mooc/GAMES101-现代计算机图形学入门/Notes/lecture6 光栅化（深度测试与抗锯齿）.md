@@ -30,8 +30,23 @@
 - **Filtering = Convolution (= Averaging)**
 - [[GAMES101_Lecture_06#^hr61fonnl5|Convolution]] 卷积科普
 	- [[GAMES101_Lecture_06#^nqn911qkvqr|Convolution Theorem]]
+	- [[GAMES101_Lecture_06#^y7wyqtj416|Convolution Theorem Example]]
+	- [[GAMES101_Lecture_06#^f5s0mp3x3v|Box Filter]] [[GAMES101_Lecture_06#^6y3fcw5eccr|Box Function = “Low Pass” Filter]]
+- **[[GAMES101_Lecture_06#^2oli21bgsjg|Sampling = Repeating Frequency Contents]]**
+	- [[GAMES101_Lecture_06#^f1ahd8xjuzb|Aliasing = Mixed Frequency Contents]]
+- Antialiasing
+	- How Can We Reduce Aliasing Error?
+		- Option 1: Increase sampling rate
+			- Essentially increasing the distance between replicas in the Fourier domain
+			- Higher resolution displays, sensors, framebuffer
+			- But: costly & may need very high resolution
+		- Option 2: Antialiasing
+			- Making Fourier contents “narrower” before repeating
+			- Filtering out high frequencies before sampling
+	- [[GAMES101_Lecture_06#^0sr4gt2r52xo|Antialiasing = Limiting, then repeating]]
+	- [[GAMES101_Lecture_06#^jtx9gg8aj3a|Antialiased Sampling]]
+	- [[GAMES101_Lecture_06#^tgfnc5mnxp|A Practical Pre-Filter]]
 	- 
-
 ---
 
 # Visibility / occlusion

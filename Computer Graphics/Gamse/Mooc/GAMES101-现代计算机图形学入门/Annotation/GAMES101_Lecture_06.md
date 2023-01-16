@@ -126,3 +126,115 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^nqn911qkvqr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T14:55:50.102Z","updated":"2023-01-16T14:55:50.102Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":5914,"end":5933},{"type":"TextQuoteSelector","exact":"Convolution Theorem","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 45* =x =Spatial DomainFrequency"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Convolution Theorem== %%POSTFIX%%45* =x =Spatial DomainFrequency*
+>%%LINK%%[[#^y7wyqtj416|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y7wyqtj416
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:00:04.701Z","updated":"2023-01-16T15:00:04.701Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":6065,"end":6075},{"type":"TextQuoteSelector","exact":"Box Filter","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 461 1 11 1 11 1 1Example: 3x3 b"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Box Filter== %%POSTFIX%%461 1 11 1 11 1 1Example: 3x3 b*
+>%%LINK%%[[#^f5s0mp3x3v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f5s0mp3x3v
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:05:34.523Z","updated":"2023-01-16T15:05:34.523Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":6155,"end":6187},{"type":"TextQuoteSelector","exact":"Box Function = “Low Pass” Filter","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 47GAMES101 Lingqi Yan, UC Santa"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Box Function = “Low Pass” Filter== %%POSTFIX%%47GAMES101 Lingqi Yan, UC Santa*
+>%%LINK%%[[#^6y3fcw5eccr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6y3fcw5eccr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:07:22.683Z","updated":"2023-01-16T15:07:22.683Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":6346,"end":6385},{"type":"TextQuoteSelector","exact":"Sampling = Repeating Frequency Contents","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 50https://www.researchgate.net/"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Sampling = Repeating Frequency Contents== %%POSTFIX%%50https://www.researchgate.net/*
+>%%LINK%%[[#^2oli21bgsjg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2oli21bgsjg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:39:01.449Z","updated":"2023-01-16T15:39:01.449Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":6560,"end":6595},{"type":"TextQuoteSelector","exact":"Aliasing = Mixed Frequency Contents","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 51Dense sampling:Sparse samplin"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Aliasing = Mixed Frequency Contents== %%POSTFIX%%51Dense sampling:Sparse samplin*
+>%%LINK%%[[#^f1ahd8xjuzb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f1ahd8xjuzb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:43:56.638Z","updated":"2023-01-16T15:43:56.638Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":7093,"end":7132},{"type":"TextQuoteSelector","exact":"Antialiasing = Limiting, then repeating","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 54FilteringThen sparse sampling"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Antialiasing = Limiting, then repeating== %%POSTFIX%%54FilteringThen sparse sampling*
+>%%LINK%%[[#^0sr4gt2r52xo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0sr4gt2r52xo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:44:39.491Z","updated":"2023-01-16T15:44:39.491Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":7340,"end":7360},{"type":"TextQuoteSelector","exact":"Antialiased Sampling","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":" 56Pre-Filter (remove frequencie"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Antialiased Sampling== %%POSTFIX%%56Pre-Filter (remove frequencie*
+>%%LINK%%[[#^jtx9gg8aj3a|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jtx9gg8aj3a
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-16T15:45:25.119Z","updated":"2023-01-16T15:45:25.119Z","document":{"title":"GAMES101_Lecture_06","link":[{"href":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95"}],"documentFingerprint":"bc4c74cc39dc3d8f4f70f3fc29c1ba95"},"uri":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","target":[{"source":"urn:x-pdf:bc4c74cc39dc3d8f4f70f3fc29c1ba95","selector":[{"type":"TextPositionSelector","start":7541,"end":7563},{"type":"TextQuoteSelector","exact":"A Practical Pre-Filter","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"A 1 pixel-width box filter (low "}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==A Practical Pre-Filter== %%POSTFIX%%A 1 pixel-width box filter (low*
+>%%LINK%%[[#^tgfnc5mnxp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tgfnc5mnxp
