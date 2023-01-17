@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0701642a693209c",
+        "id": "a029725987e03e73",
         "type": "tabs",
         "children": [
           {
-            "id": "ce74d0261f9fa122",
+            "id": "7574cd8138119778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,17 +159,52 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "ce74d0261f9fa122",
+  "floating": {
+    "id": "4ad0036621c1b152",
+    "type": "floating",
+    "children": [
+      {
+        "id": "057b63efe1d2b025",
+        "type": "window",
+        "children": [
+          {
+            "id": "a4d52f101e4a45b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9d69e63c11fd35c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 585,
+        "y": 193,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7574cd8138119778",
   "lastOpenFiles": [
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture3 变换 （二维与三维）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_06.pdf",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_06.pdf"
   ]
 }
