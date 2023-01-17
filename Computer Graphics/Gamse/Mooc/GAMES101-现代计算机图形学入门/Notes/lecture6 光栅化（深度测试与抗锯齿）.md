@@ -46,7 +46,18 @@
 	- [[GAMES101_Lecture_06#^0sr4gt2r52xo|Antialiasing = Limiting, then repeating]]
 	- [[GAMES101_Lecture_06#^jtx9gg8aj3a|Antialiased Sampling]]
 	- [[GAMES101_Lecture_06#^tgfnc5mnxp|A Practical Pre-Filter]]
-	- 
+	- [[GAMES101_Lecture_06#^gb2n5jln6q4|Antialiasing By Averaging Values in Pixel Area]]
+	- [[GAMES101_Lecture_06#^ran1f8pz4wf|Antialiasing by Computing Average Pixel Value]]
+- [[GAMES101_Lecture_06#^ptdhfwnazko|Antialiasing By Supersampling ]](MSAA) 超采样
+	- [[GAMES101_Lecture_06#^0g9mfo0vzlcp|Supersampling]]
+		- Approximate the effect of the 1-pixel box filter by sampling  multiple locations within a pixel and averaging their values
+- Milestones
+	- FXAA (Fast Approximate AA)
+	- TAA (Temporal AA)
+- Super resolution / super sampling (超分辨率)
+	- From low resolution to high resolution
+	- Essentially still “not enough samples” problem
+	- DLSS (Deep Learning Super Sampling) 猜出来
 ---
 
 # Visibility / occlusion
