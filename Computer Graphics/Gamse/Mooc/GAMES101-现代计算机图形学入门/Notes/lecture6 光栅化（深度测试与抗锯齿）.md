@@ -61,3 +61,24 @@
 ---
 
 # Visibility / occlusion
+
+- Z-buffering
+	- Painter’s Algorithm
+		- Inspired by how painters paint. Paint from back to front, overwrite in the framebuffer. (画完再遮盖)
+		- Requires sorting in depth ($O(nlogn)$ for n triangles) 
+		- Can have unresolvable depth order
+	- Z-buffering is the algorithm that eventually won
+	- Idea : 
+		- Store current min. z-value for each sample (pixel)
+		- Needs an additional buffer for depth values
+			- frame buffer stores color values
+			- depth buffer (z-buffer) stores depth
+	- [[GAMES101_Lecture_07#^xiq4t0k2uai|Z-Buffer Algorithm]]
+	- Z-Buffer Complexity
+		- Complexity
+			- O(n) for n triangles (assuming constant coverage) 三角形覆盖常数个像素
+			- How is it possible to sort n triangles in linear time?
+				- 没获得排序序列 只是遍历求最小
+			- Drawing triangles in different orders? 得到相同结果
+			- **Most important visibility algorithm**
+				- Implemented in hardware for all GPUs
