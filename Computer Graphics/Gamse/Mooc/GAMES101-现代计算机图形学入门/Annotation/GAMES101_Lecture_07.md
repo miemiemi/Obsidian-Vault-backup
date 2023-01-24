@@ -15,3 +15,31 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >
 ^xiq4t0k2uai
 
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-24T03:34:39.455Z","updated":"2023-01-24T03:34:39.455Z","document":{"title":"GAMES101_Lecture_07","link":[{"href":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e"}],"documentFingerprint":"f5653ead312e2e7b0694929f042e364e"},"uri":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","target":[{"source":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","selector":[{"type":"TextPositionSelector","start":3152,"end":3175},{"type":"TextQuoteSelector","exact":"A Simple Shading Model ","prefix":"rial to an object.In this course","suffix":"(Blinn-Phong Reflectance Model)P"}]}]}
+>```
+>%%
+>*%%PREFIX%%rial to an object.In this course%%HIGHLIGHT%% ==A Simple Shading Model== %%POSTFIX%%(Blinn-Phong Reflectance Model)P*
+>%%LINK%%[[#^q3nu8ancevq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^q3nu8ancevq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-24T04:01:37.646Z","updated":"2023-01-24T04:01:37.646Z","document":{"title":"GAMES101_Lecture_07","link":[{"href":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e"}],"documentFingerprint":"f5653ead312e2e7b0694929f042e364e"},"uri":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","target":[{"source":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","selector":[{"type":"TextPositionSelector","start":3921,"end":3961},{"type":"TextQuoteSelector","exact":"But how much light (energy) is received?","prefix":"Santa BarbaraDiffuse Reflection•","suffix":" - Lambert’s cosine law 25Top fa"}]}]}
+>```
+>%%
+>*%%PREFIX%%Santa BarbaraDiffuse Reflection•%%HIGHLIGHT%% ==But how much light (energy) is received?== %%POSTFIX%%- Lambert’s cosine law 25Top fa*
+>%%LINK%%[[#^jxds8h18ick|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jxds8h18ick
