@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md"
               }
             }
           },
@@ -193,19 +193,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 1097,
-        "y": 593,
-        "width": 1098,
-        "height": 594,
+        "x": 1096,
+        "y": 592,
+        "width": 1102,
+        "height": 598,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3a82c774454e3036",
+  "active": "fa77fb18958bd3b2",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture7 着色（光照与基本着色模型）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
