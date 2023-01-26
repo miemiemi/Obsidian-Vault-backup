@@ -43,3 +43,17 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-çŽ°ä
 >%%TAGS%%
 >
 ^jxds8h18ick
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-26T05:13:06.551Z","updated":"2023-01-26T05:13:06.551Z","document":{"title":"GAMES101_Lecture_07","link":[{"href":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e"}],"documentFingerprint":"f5653ead312e2e7b0694929f042e364e"},"uri":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","target":[{"source":"urn:x-pdf:f5653ead312e2e7b0694929f042e364e","selector":[{"type":"TextPositionSelector","start":4289,"end":4317},{"type":"TextQuoteSelector","exact":"Lambertian (Diffuse) Shading","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Shading independent of view dire"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Lambertian (Diffuse) Shading== %%POSTFIX%%Shading independent of view dire*
+>%%LINK%%[[#^7wlel6nqymr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7wlel6nqymr

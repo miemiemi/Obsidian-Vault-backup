@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eaeb878605a46f49",
+        "id": "d1844ff5f45befd3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a06fc7aeea14d4a",
+            "id": "fa77fb18958bd3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture7 着色（光照与基本着色模型）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5abe9dee213b35ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md"
               }
             }
           },
@@ -185,20 +172,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "6097a527179c9eda",
+        "id": "e014a48802565767",
         "type": "window",
         "children": [
           {
-            "id": "0ada6713e67e0c17",
+            "id": "f9a8025b0c74bba4",
             "type": "tabs",
             "children": [
               {
-                "id": "f4ff160475bd30d5",
+                "id": "3a82c774454e3036",
                 "type": "leaf",
                 "state": {
                   "type": "pdf-annotator",
                   "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md"
+                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md"
                   }
                 }
               }
@@ -215,15 +202,15 @@
       }
     ]
   },
-  "active": "f4ff160475bd30d5",
+  "active": "3a82c774454e3036",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture7 着色（光照与基本着色模型）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_07.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture8 着色（着色频率、图形管线、纹理映射）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture7 着色（光照与基本着色模型）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_07.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md"
