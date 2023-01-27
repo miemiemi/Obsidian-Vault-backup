@@ -48,5 +48,21 @@
 ---
 # Graphics pipeline
 
-[[GAMES101_Lecture_08#^werj9dqpe5|Real-time Rendering Pipeline]]
+- [[GAMES101_Lecture_08#^werj9dqpe5|Real-time Rendering Pipeline]]
+- [[GAMES101_Lecture_08#^cf4pfycn39j|Shader Programs]]
+	- Program vertex and fragment processing stages
+	- Describe operation on a single vertex (or fragment)
 
+---
+
+# Texture Mapping
+
+- Different Colors at Different Places?
+- Surfaces are 2D
+	- Surface lives in 3D world space, every 3D surface point also has a place where it goes in the 2D image (texture).
+- [[GAMES101_Lecture_08#^fepv66rj3gh|Texture Applied to Surface]]
+	- Each triangle “copies” a piece of the texture image to the surface.
+- [[GAMES101_Lecture_08#^b9bpcrsmgdb|Visualization of Texture Coordinates]]
+	- Each triangle vertex is assigned a **texture coordinate** (u,v)
+- Textures can be used multiple times!
+	- [[GAMES101_Lecture_08#^7kh5qxewpic|example textures]]  used / tiled
