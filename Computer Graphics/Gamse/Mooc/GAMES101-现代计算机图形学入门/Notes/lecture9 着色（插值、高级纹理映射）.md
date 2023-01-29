@@ -11,6 +11,8 @@
 		- Barycentric coordinates
 - Barycentric Coordinates
 	-  $(\alpha,\beta,\gamma )$ [[GAMES101_Lecture_09#^1vxa2rpw2kl|A coordinate system for triangles]]
+	-  $(x,y) =  \alpha A+ \beta B + \gamma C$
+	- 用线性组合描述三角形内的点  在三角形内 Inside the triangle if all three coordinates are non-negative
 
 # Texture queries
 
