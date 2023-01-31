@@ -65,3 +65,23 @@
 		- [[GAMES101_Lecture_09#^f1rfeqfk2yd|EWA filtering]]
 
 # Applications of texture
+
+Many, Many Uses for Texturing
+- In modern GPUs, texture = memory + range query(filtering)
+	- General method to bring data to fragment calculations 
+	- Many applications
+		- Environment lighting (描述不同方向的光照信息)
+			- [[GAMES101_Lecture_10#^9cw6daxgcxe|Environment Map]] 
+			- [[GAMES101_Lecture_10#^uwf0lbw4owh|Environmental Lighting]]
+			- [[GAMES101_Lecture_10#^ajqvw9ykwxr|Spherical Environment Map]]
+			- [[GAMES101_Lecture_10#^gofcxajm6hd|Spherical Map — Problem]]
+			- [[GAMES101_Lecture_10#^8e7tkbezpjc|Cube Map]]
+		- Textures can affect shading, textures doesn't have to only represent colors
+			- Store the height / normal
+			- Bump / normal mapping
+			- **Fake** the detailed geometry
+			- [[GAMES101_Lecture_10#^5szvvscum8q|Bump Mapping]]
+				- Adding surface detail without adding more triangles
+					- Perturb surface normal per pixel
+					- “Height shift” per texel defined by a texture
+					- [[GAMES101_Lecture_10#^1erax1s786q|How to perturb the normal (in flatland)]]
