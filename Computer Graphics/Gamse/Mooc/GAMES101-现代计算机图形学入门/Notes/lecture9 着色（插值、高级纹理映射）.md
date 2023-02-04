@@ -85,3 +85,9 @@ Many, Many Uses for Texturing
 					- Perturb surface normal per pixel
 					- “Height shift” per texel defined by a texture
 					- [[GAMES101_Lecture_10#^1erax1s786q|How to perturb the normal (in flatland)]]
+			- [[GAMES101_Lecture_10#^ghsxcf9w3tc|Displacement mapping]]
+				- Actually moves the vertices
+				- (动态曲面细分)
+		- [[GAMES101_Lecture_10#^cf619nkqraf|3D Procedural Noise + Solid Modeling]]
+		- [[GAMES101_Lecture_10#^00k21s7qgqd2g|Provide Precomputed Shading]]
+		- 

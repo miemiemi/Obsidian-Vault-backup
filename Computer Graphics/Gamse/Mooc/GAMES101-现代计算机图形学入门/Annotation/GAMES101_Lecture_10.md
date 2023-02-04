@@ -100,3 +100,45 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^1erax1s786q
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-31T04:51:26.502Z","updated":"2023-01-31T04:51:26.502Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":6343,"end":6363},{"type":"TextQuoteSelector","exact":"Displacement mapping","prefix":"raTextures can affect shading!• ","suffix":" — a more advanced approach - Us"}]}]}
+>```
+>%%
+>*%%PREFIX%%raTextures can affect shading!•%%HIGHLIGHT%% ==Displacement mapping== %%POSTFIX%%— a more advanced approach - Us*
+>%%LINK%%[[#^ghsxcf9w3tc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ghsxcf9w3tc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-31T04:55:16.210Z","updated":"2023-01-31T04:55:16.210Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":6547,"end":6583},{"type":"TextQuoteSelector","exact":"3D Procedural Noise + Solid Modeling","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"19Ken PerlinPerlin noise, Ken Pe"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==3D Procedural Noise + Solid Modeling== %%POSTFIX%%19Ken PerlinPerlin noise, Ken Pe*
+>%%LINK%%[[#^cf619nkqraf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^cf619nkqraf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-31T04:56:55.059Z","updated":"2023-01-31T04:56:55.059Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":6656,"end":6683},{"type":"TextQuoteSelector","exact":"Provide Precomputed Shading","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"20AutodeskSimple shadingAmbient "}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Provide Precomputed Shading== %%POSTFIX%%20AutodeskSimple shadingAmbient*
+>%%LINK%%[[#^00k21s7qgqd2g|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^00k21s7qgqd2g
