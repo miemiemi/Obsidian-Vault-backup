@@ -142,3 +142,129 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^00k21s7qgqd2g
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:46:35.134Z","updated":"2023-02-06T14:46:35.134Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8044,"end":8073},{"type":"TextQuoteSelector","exact":"E.g. sphere: all points in 3D","prefix":"sfy some specified relationship ","suffix":", where x2+y2+z2 = 1 More genera"}]}]}
+>```
+>%%
+>*%%PREFIX%%sfy some specified relationship%%HIGHLIGHT%% ==E.g. sphere: all points in 3D== %%POSTFIX%%, where x2+y2+z2 = 1 More genera*
+>%%LINK%%[[#^jc2urkzpgu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jc2urkzpgu
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:48:08.810Z","updated":"2023-02-06T14:48:08.810Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8140,"end":8179},{"type":"TextQuoteSelector","exact":"Implicit Surface – Sampling Can Be Hard","prefix":", f(x,y,z) = 033-1+1f(x,y)0f = 0","suffix":"f(x,y,z) = (2 \u0000px2+ y2)2+ z2\u00001xz"}]}]}
+>```
+>%%
+>*%%PREFIX%%, f(x,y,z) = 033-1+1f(x,y)0f = 0%%HIGHLIGHT%% ==Implicit Surface – Sampling Can Be Hard== %%POSTFIX%%f(x,y,z) = (2  px2+ y2)2+ z2 1xz*
+>%%LINK%%[[#^iv4lcmqvv3e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^iv4lcmqvv3e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:48:47.752Z","updated":"2023-02-06T14:48:47.752Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8293,"end":8337},{"type":"TextQuoteSelector","exact":"Implicit Surface – Inside/Outside Tests Easy","prefix":"rd with implicit representations","suffix":"Just plug it in:f(x,y,z) = –1/8 "}]}]}
+>```
+>%%
+>*%%PREFIX%%rd with implicit representations%%HIGHLIGHT%% ==Implicit Surface – Inside/Outside Tests Easy== %%POSTFIX%%Just plug it in:f(x,y,z) = –1/8*
+>%%LINK%%[[#^k11buzz87qm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^k11buzz87qm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:51:39.039Z","updated":"2023-02-06T14:51:39.039Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8536,"end":8546},{"type":"TextQuoteSelector","exact":"Generally:","prefix":"cit” Representations of Geometry","suffix":"All points are given directly or"}]}]}
+>```
+>%%
+>*%%PREFIX%%cit” Representations of Geometry%%HIGHLIGHT%% ==Generally:== %%POSTFIX%%All points are given directly or*
+>%%LINK%%[[#^0ub3ww1znv0e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0ub3ww1znv0e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:52:25.178Z","updated":"2023-02-06T14:52:25.178Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8601,"end":8636},{"type":"TextQuoteSelector","exact":"Explicit Surface – Sampling Is Easy","prefix":"rectly or via parameter mapping ","suffix":"xzyWhat points lie on this surfa"}]}]}
+>```
+>%%
+>*%%PREFIX%%rectly or via parameter mapping%%HIGHLIGHT%% ==Explicit Surface – Sampling Is Easy== %%POSTFIX%%xzyWhat points lie on this surfa*
+>%%LINK%%[[#^z7c6go518o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z7c6go518o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:53:21.269Z","updated":"2023-02-06T14:53:21.269Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":8794,"end":8837},{"type":"TextQuoteSelector","exact":"Explicit Surface – Inside/Outside Test Hard","prefix":") cos v,(2 + cos u) sin v,sin u)","suffix":"Some tasks are hard with explici"}]}]}
+>```
+>%%
+>*%%PREFIX%%) cos v,(2 + cos u) sin v,sin u)%%HIGHLIGHT%% ==Explicit Surface – Inside/Outside Test Hard== %%POSTFIX%%Some tasks are hard with explici*
+>%%LINK%%[[#^tdy7no9zo29|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tdy7no9zo29
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:56:11.341Z","updated":"2023-02-06T14:56:11.341Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":9496,"end":9525},{"type":"TextQuoteSelector","exact":"Algebraic Surfaces (Implicit)","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Surface is zero set of a polynom"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Algebraic Surfaces (Implicit)== %%POSTFIX%%Surface is zero set of a polynom*
+>%%LINK%%[[#^9g0e8m23jrp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9g0e8m23jrp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T14:57:41.943Z","updated":"2023-02-06T14:57:41.943Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":9630,"end":9668},{"type":"TextQuoteSelector","exact":"Constructive Solid Geometry (Implicit)","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Combine implicit geometry via Bo"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Constructive Solid Geometry (Implicit)== %%POSTFIX%%Combine implicit geometry via Bo*
+>%%LINK%%[[#^q6pv85ofcr9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^q6pv85ofcr9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-06T15:02:55.643Z","updated":"2023-02-06T15:02:55.643Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":9766,"end":9795},{"type":"TextQuoteSelector","exact":"Distance Functions (Implicit)","prefix":"n DifferenceBoolean expressions:","suffix":"Instead of Booleans, gradually b"}]}]}
+>```
+>%%
+>*%%PREFIX%%n DifferenceBoolean expressions:%%HIGHLIGHT%% ==Distance Functions (Implicit)== %%POSTFIX%%Instead of Booleans, gradually b*
+>%%LINK%%[[#^4hwi6p7jbuj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4hwi6p7jbuj
