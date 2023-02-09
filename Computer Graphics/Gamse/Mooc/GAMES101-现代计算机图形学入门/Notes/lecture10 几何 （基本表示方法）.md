@@ -28,3 +28,14 @@
 	- [[GAMES101_Lecture_10#^q6pv85ofcr9|Constructive Solid Geometry (Implicit)]]
 		- Combine implicit geometry via Boolean operations
 	- [[GAMES101_Lecture_10#^4hwi6p7jbuj|Distance Functions (Implicit)]]
+	- [[GAMES101_Lecture_10#^iv8kl24jw8|Level Set Methods (Also implicit)]]
+	- [[GAMES101_Lecture_10#^gv9i78u50ym|Fractals (Implicit)]]
+- [[GAMES101_Lecture_10#^4929iuuraa4|Implicit Representations - Pros & Cons]]
+	- Pros:
+		- compact description (e.g., a function)
+		- certain queries easy (inside object, distance to surface)
+		- good for ray-to-surface intersection (more later)
+		- for simple shapes, exact description / no sampling error
+		- easy to handle changes in topology (e.g., fluid)
+	- Cons:
+		- difficult to model complex shapes

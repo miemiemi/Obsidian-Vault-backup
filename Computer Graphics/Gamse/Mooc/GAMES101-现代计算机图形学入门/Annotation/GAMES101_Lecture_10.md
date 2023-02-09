@@ -268,3 +268,45 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^4hwi6p7jbuj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-09T04:05:14.576Z","updated":"2023-02-09T04:05:14.576Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":10301,"end":10334},{"type":"TextQuoteSelector","exact":"Level Set Methods (Also implicit)","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Closed-form equations are hard t"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Level Set Methods (Also implicit)== %%POSTFIX%%Closed-form equations are hard t*
+>%%LINK%%[[#^iv8kl24jw8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^iv8kl24jw8
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-09T04:07:25.404Z","updated":"2023-02-09T04:07:25.404Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":10945,"end":10964},{"type":"TextQuoteSelector","exact":"Fractals (Implicit)","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Exhibit self-similarity, detail "}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Fractals (Implicit)== %%POSTFIX%%Exhibit self-similarity, detail*
+>%%LINK%%[[#^gv9i78u50ym|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gv9i78u50ym
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-09T04:09:54.778Z","updated":"2023-02-09T04:09:54.778Z","document":{"title":"GAMES101_Lecture_10_new","link":[{"href":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a"}],"documentFingerprint":"65ab689acdb9f454f730a71d9d93ac7a"},"uri":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","target":[{"source":"urn:x-pdf:65ab689acdb9f454f730a71d9d93ac7a","selector":[{"type":"TextPositionSelector","start":11115,"end":11153},{"type":"TextQuoteSelector","exact":"Implicit Representations - Pros & Cons","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"Pros: • compact description (e.g"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Implicit Representations - Pros & Cons== %%POSTFIX%%Pros: • compact description (e.g*
+>%%LINK%%[[#^4929iuuraa4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4929iuuraa4
