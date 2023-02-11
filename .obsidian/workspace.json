@@ -167,41 +167,6 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "floating": {
-    "id": "3330587baf383535",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cf53290077203c02",
-        "type": "window",
-        "children": [
-          {
-            "id": "a5d1151794da246c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0d5f3f3ad3b9f918",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf-annotator",
-                  "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1096,
-        "y": 592,
-        "width": 1102,
-        "height": 598,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "40ab82e817fdd30b",
   "lastOpenFiles": [
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
