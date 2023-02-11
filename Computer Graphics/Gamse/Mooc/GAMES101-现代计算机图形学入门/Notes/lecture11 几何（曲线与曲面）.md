@@ -27,4 +27,4 @@ Explicit Representations in Computer Graphics
 - Bézier Curves
 	- [[GAMES101_Lecture_11#^1cq4xinjavr|Defining Cubic Bézier Curve With Tangents]]
 	- [[GAMES101_Lecture_11#^mpxkmwugcrh|Evaluating Bézier Curves – de Casteljau Algorithm]]
-		- Consider three points (quadratic Bezier)
+		- Consider three points (quadratic Bezier)  
