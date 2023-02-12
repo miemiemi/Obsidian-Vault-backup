@@ -54,3 +54,12 @@ Explicit Representations in Computer Graphics
 		- [[GAMES101_Lecture_11#^sbsghcxlypb|Piecewise Bézier Curves]]
 			- Instead, chain many low-order Bézier curve
 			- Piecewise **cubic** Bézier the most common technique
+			- [[GAMES101_Lecture_11#^3vxl4jyits|Piecewise Bézier Curve – Continuity]]
+				- $C^0$ continuity 
+				- $C^1$ continuity 
+- [[GAMES101_Lecture_11#^1ikeg2prcou|Other types of splines]]
+	- Spline
+		- a continuous curve constructed so as to pass through a given set of points and have a certain number of continuous derivatives.
+		- In short, a curve under control
+	- [[GAMES101_Lecture_11#^x9bh01s47ab|B-splines]]
+		- 
