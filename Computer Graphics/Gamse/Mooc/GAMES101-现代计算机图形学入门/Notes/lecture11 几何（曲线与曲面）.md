@@ -40,4 +40,8 @@ Explicit Representations in Computer Graphics
 		- [[GAMES101_Lecture_11#^w7qvbx71049|Example: quadratic Bézier curve from three points]]
 		- [[GAMES101_Lecture_11#^037o3u823uu4|Bernstein form of a Bézier curve of order n]]
 		- [[GAMES101_Lecture_11#^2zwhpnbg3gi|Bernstein Polynomials]]
-		- 
+	- [[GAMES101_Lecture_11#^hqdy5v5fbn|Properties of Bézier Curves]]
+		- [[GAMES101_Lecture_11#^la6ew2eqaeo|Interpolates endpoints ]]
+		- [[GAMES101_Lecture_11#^g0np1bvpck|Tangent to end segments ]]
+		- Affine transformation property
+			- Transform curve by transforming control points
