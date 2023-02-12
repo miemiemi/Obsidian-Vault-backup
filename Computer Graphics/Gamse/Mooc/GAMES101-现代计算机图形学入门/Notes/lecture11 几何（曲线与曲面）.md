@@ -35,3 +35,9 @@ Explicit Representations in Computer Graphics
 	- [[GAMES101_Lecture_11#^4j8jna1zcdj|Cubic Bézier Curve – de Casteljau]]
 		- Four input points in total
 		- Same recursive linear interpolations
+	- [[GAMES101_Lecture_11#^7g1zdqndyjb|Bézier Curve – Algebraic Formula]]
+		- de Casteljau algorithm gives a pyramid of coefficients
+		- [[GAMES101_Lecture_11#^w7qvbx71049|Example: quadratic Bézier curve from three points]]
+		- [[GAMES101_Lecture_11#^037o3u823uu4|Bernstein form of a Bézier curve of order n]]
+		- [[GAMES101_Lecture_11#^2zwhpnbg3gi|Bernstein Polynomials]]
+		- 
