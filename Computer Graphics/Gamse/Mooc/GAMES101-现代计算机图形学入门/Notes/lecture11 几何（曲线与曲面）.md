@@ -45,3 +45,12 @@ Explicit Representations in Computer Graphics
 		- [[GAMES101_Lecture_11#^g0np1bvpck|Tangent to end segments ]]
 		- Affine transformation property
 			- Transform curve by transforming control points
+		- **Convex hull** property
+			- Curve is within convex hull of control points
+	- Piecewise Bézier Curves
+		- [[GAMES101_Lecture_11#^9vbgntjwm0h|Higher-Order Bézier Curves]]
+			- Very hard to control!
+			- Uncommon
+		- [[GAMES101_Lecture_11#^sbsghcxlypb|Piecewise Bézier Curves]]
+			- Instead, chain many low-order Bézier curve
+			- Piecewise **cubic** Bézier the most common technique
