@@ -62,4 +62,12 @@ Explicit Representations in Computer Graphics
 		- a continuous curve constructed so as to pass through a given set of points and have a certain number of continuous derivatives.
 		- In short, a curve under control
 	- [[GAMES101_Lecture_11#^x9bh01s47ab|B-splines]]
-		- 
+		- Short for basis splines
+		- Require more information than Bezier curves
+		- Satisfy all important properties that Bézier curves have (i.e.superset)
+
+# Surfaces
+
+- Bezier surfaces
+- Subdivision surfaces (triangles & quads)
+
