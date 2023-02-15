@@ -69,5 +69,14 @@ Explicit Representations in Computer Graphics
 # Surfaces
 
 - Bezier surfaces
-- Subdivision surfaces (triangles & quads)
+	- Extend Bézier curves to surfaces
+	- [[GAMES101_Lecture_11#^v5y22vrq79|Bicubic Bézier Surface Patch]]
+	- [[GAMES101_Lecture_11#^5zhj938416c|Visualizing Bicubic Bézier Surface Patch]]
+	- Evaluating Bézier Surfaces
+		- [[GAMES101_Lecture_11#^3jgg3cztvb|Evaluating Surface Position For Parameters (u,v)]]
+		- [[GAMES101_Lecture_11#^4f704tx8kfn|Method: Separable 1D de Casteljau Algorithm]]
+- Mesh Operations:
+	- Mesh subdivision
+	- Mesh simplification
+	- Mesh regularization
 
