@@ -35,4 +35,7 @@
 
 ## Mesh Simplification
 
-- Goal : reduce number of mesh element
+Goal : reduce number of mesh elements while maintaining the overall shape
+
+- [[GAMES101_Lecture_12#^9iu8ddf4ua|Collapsing An Edge]]
+	- 

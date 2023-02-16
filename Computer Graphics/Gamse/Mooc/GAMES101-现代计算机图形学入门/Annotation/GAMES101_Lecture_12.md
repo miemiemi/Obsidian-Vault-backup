@@ -128,3 +128,17 @@ annotation-target: D:/ObsidianNotes/Computer%20Graphics/Gamse/Mooc/GAMES101-现�
 >%%TAGS%%
 >
 ^8p5wrcndjrf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-02-15T15:56:21.881Z","updated":"2023-02-15T15:56:21.881Z","document":{"title":"GAMES101_Lecture_12","link":[{"href":"urn:x-pdf:e18352f7c5263407ba4838af6796ae1e"}],"documentFingerprint":"e18352f7c5263407ba4838af6796ae1e"},"uri":"urn:x-pdf:e18352f7c5263407ba4838af6796ae1e","target":[{"source":"urn:x-pdf:e18352f7c5263407ba4838af6796ae1e","selector":[{"type":"TextPositionSelector","start":3257,"end":3275},{"type":"TextQuoteSelector","exact":"Collapsing An Edge","prefix":"101 Lingqi Yan, UC Santa Barbara","suffix":"• Suppose we simplify a mesh usi"}]}]}
+>```
+>%%
+>*%%PREFIX%%101 Lingqi Yan, UC Santa Barbara%%HIGHLIGHT%% ==Collapsing An Edge== %%POSTFIX%%• Suppose we simplify a mesh usi*
+>%%LINK%%[[#^9iu8ddf4ua|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9iu8ddf4ua
