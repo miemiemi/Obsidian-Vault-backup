@@ -25,6 +25,8 @@
 - 输入的编辑通过优化的方法表示为隐空间编辑向量
 - 编辑操作
 - 局部区域融合方法融合多帧的不同编辑
+
+- 人脸NeRF三维语义编辑
 - NeRF 缺乏编辑方式
 	- NeRF 编辑
 - 解耦的隐式表示
@@ -34,4 +36,26 @@
 - 三平面
 - StyleNeRF
 - EG3D
+	- Sdalo Gan3
 - GRAM
+- HyperNeRF
+- FENeRF artifact
+- 几何特征
+- 材质特征
+- 几何、材质解耦设计
+- 促进风格迁移的有效性训练策略
+- 解耦光影
+- 单视角语义掩码编辑的歧义性问题
+- 提供更细致的编辑媒介
+- Fine-turing
+
+DeepFaceEditing
+- Disentangle module
+- Local-to-Global Approach
+	- 分成五官
+- Data Preparation
+	- Dataset: FFHQ
+	- 草图和真实图像训练
+- 训练自编码器获取草图特征
+
+NeRF edit
