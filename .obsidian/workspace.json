@@ -167,50 +167,15 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "floating": {
-    "id": "3619b9f5ffba9aae",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bed19d2c2658ea4a",
-        "type": "window",
-        "children": [
-          {
-            "id": "0c7fef227cc45f3c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f7d03c9b24e89326",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf-annotator",
-                  "state": {
-                    "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1096,
-        "y": 592,
-        "width": 1112,
-        "height": 608,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "40ab82e817fdd30b",
   "lastOpenFiles": [
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
+    "邮件.md",
     "README.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "邮件.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture10 几何 （基本表示方法）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_10.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_09.md"
