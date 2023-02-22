@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md"
+                "file": "邮件.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "d0eb8d2f2b6b7a8b",
   "lastOpenFiles": [
+    "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "邮件.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
     "README.md",
@@ -190,7 +191,6 @@
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture10 几何 （基本表示方法）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_10.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_09.md"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_10.md"
   ]
 }
