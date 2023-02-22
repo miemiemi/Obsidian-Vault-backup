@@ -1,0 +1,16 @@
+
+- 人脸编辑: DeepFaceEditing Stitch-it-in-time
+- 视频编辑工作：
+	- 视频上色
+	- 视频风格化
+	- 视频内容编辑
+- 图像编辑工作 # DeepFaceVideoEditing
+- 挑战
+	- 时序一致性
+	- 时序变换编辑
+- 方法
+	- 草图编辑优化
+		- 
+	- 时序编辑传播
+	- 区域感知融合
+	- 输入视频 EFE网络 W+space
