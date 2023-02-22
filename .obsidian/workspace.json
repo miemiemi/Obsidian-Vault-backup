@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7de2ab5b0732ed7",
+        "id": "83d520221bed62f8",
         "type": "tabs",
         "children": [
           {
-            "id": "40ab82e817fdd30b",
+            "id": "ac36bd48eea64959",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "邮件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0eb8d2f2b6b7a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "邮件.md",
+                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "邮件.md",
+                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "邮件.md",
+                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "邮件.md"
+                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md"
               }
             }
           },
@@ -180,10 +167,10 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "d0eb8d2f2b6b7a8b",
+  "active": "beefbbd88e76acd9",
   "lastOpenFiles": [
-    "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "邮件.md",
+    "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
     "README.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
