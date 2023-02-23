@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "邮件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md"
+                "file": "邮件.md"
               }
             }
           },
@@ -182,11 +182,11 @@
   },
   "active": "f06126d78afd7537",
   "lastOpenFiles": [
-    "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
+    "README.md",
     "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+    "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
     "邮件.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
-    "README.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
