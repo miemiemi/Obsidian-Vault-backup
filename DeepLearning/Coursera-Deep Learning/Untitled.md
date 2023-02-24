@@ -1,0 +1,15 @@
+Courses in the sequence(Specialization):
+- Neural Network and Deep Learning (4 weeks)
+	- how to build a neural network
+	- how to train it on data
+	- build a deep neural network to a cat recognizer
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimizaition (3 weeks)
+	- how to actually get network to perform well.
+	- hyperparameter tuning, regularization
+	- how to diagnose bias, and variants
+	- advance optimization algorithm
+- Structuring your Machine Learning project (2 weeks)
+	- how to structure your machine learning project
+	- split data into train development
+- Convolutional Neural Networks
+- Natural Language Processing: Building sequence models
