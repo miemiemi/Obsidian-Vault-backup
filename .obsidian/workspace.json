@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b3fd3eab0deb33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md"
+                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md"
               }
             }
           },
@@ -167,50 +179,14 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "floating": {
-    "id": "56a82dde5fc3c8da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b6ad35d15cba5790",
-        "type": "window",
-        "children": [
-          {
-            "id": "8632eed214546fed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79d31251bcf30046",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DeepLearning/Dive Into Deep Learning/README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1456,
-        "y": 16,
-        "width": 603,
-        "height": 603,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "ab216e42743afe96",
   "lastOpenFiles": [
+    "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
+    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+    "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_1.pdf",
-    "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
-    "DeepLearning/Dive Into Deep Learning/README.md",
     "邮件.md",
     "README.md",
     "Untitled.md",
