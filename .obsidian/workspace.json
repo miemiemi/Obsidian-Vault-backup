@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "329225c6f6d71cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b3fd3eab0deb33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,11 +180,11 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "329225c6f6d71cac",
+  "active": "beefbbd88e76acd9",
   "lastOpenFiles": [
+    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
-    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
     "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf",
