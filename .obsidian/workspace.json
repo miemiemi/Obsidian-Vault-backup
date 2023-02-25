@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "329225c6f6d71cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md"
+                "file": "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md"
               }
             }
           },
@@ -179,11 +192,12 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "ab216e42743afe96",
+  "active": "329225c6f6d71cac",
   "lastOpenFiles": [
-    "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
-    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
+    "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
+    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
+    "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
     "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_1.pdf",
