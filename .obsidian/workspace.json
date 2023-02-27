@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b22e3a3fe768fba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64328cac04f12a5b",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md"
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "a536e0b7e3637179",
+  "active": "b22e3a3fe768fba5",
   "lastOpenFiles": [
-    "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+    "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Coursera-Machine Learning/Notes",
     "DeepLearning/Untitled.md",
     "DeepLearning/Coursera-Machine Learning",
