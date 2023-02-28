@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be5ffdc3345604f1",
+            "id": "563a6f297ab1b52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,18 @@
             }
           },
           {
-            "id": "a536e0b7e3637179",
+            "id": "2b3169c54913fc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b22e3a3fe768fba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64328cac04f12a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/README.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md"
+                "file": "DeepLearning/Dive Into Deep Learning/README.md"
               }
             }
           },
@@ -204,15 +179,17 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "b22e3a3fe768fba5",
+  "active": "563a6f297ab1b52d",
   "lastOpenFiles": [
-    "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
-    "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
+    "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
+    "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/04 Gradient Descent.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
     "DeepLearning/Coursera-Machine Learning/Notes",
     "DeepLearning/Untitled.md",
     "DeepLearning/Coursera-Machine Learning",
-    "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
     "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
