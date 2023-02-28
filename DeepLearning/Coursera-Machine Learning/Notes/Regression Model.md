@@ -9,3 +9,4 @@
 
 # Cost function 
 
+- parameters = coefficient ? weight
