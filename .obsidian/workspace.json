@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md"
+                "file": "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "b22e3a3fe768fba5",
   "lastOpenFiles": [
-    "DeepLearning/Coursera-Machine Learning/Notes/Supervised vs. Unsupervised Machine Learning.md",
-    "DeepLearning/Coursera-Machine Learning/Notes/Regression Model.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Coursera-Machine Learning/Notes",
     "DeepLearning/Untitled.md",

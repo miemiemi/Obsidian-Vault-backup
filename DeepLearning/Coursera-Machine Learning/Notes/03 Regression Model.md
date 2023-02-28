@@ -15,4 +15,5 @@
 
 # Visualizing the Cost Function
 
-- 
+# Visualization examples
+
