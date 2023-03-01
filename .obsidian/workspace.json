@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
+                "file": "DeepLearning/Dive Into Deep Learning/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md"
+                "file": "DeepLearning/Dive Into Deep Learning/README.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "2b3169c54913fc6b",
   "lastOpenFiles": [
-    "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
-    "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
+    "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
+    "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
     "DeepLearning/Coursera-Machine Learning/Notes/04 Gradient Descent.md",
     "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
     "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
