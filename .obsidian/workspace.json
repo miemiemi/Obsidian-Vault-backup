@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/README.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ac258b224b025f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
+                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md"
+                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md"
               }
             }
           },
@@ -180,11 +192,12 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "b35eb18dce9525f4",
+  "active": "5ac258b224b025f1",
   "lastOpenFiles": [
-    "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
     "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
+    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
+    "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
     "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
