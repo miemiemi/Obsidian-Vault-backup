@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b3169c54913fc6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ac258b224b025f1",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b35eb18dce9525f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,9 +169,9 @@
   },
   "active": "5ac258b224b025f1",
   "lastOpenFiles": [
-    "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
-    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
+    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
+    "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
     "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
     "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
