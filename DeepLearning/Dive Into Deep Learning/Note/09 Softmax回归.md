@@ -37,4 +37,26 @@
 
 # 图像分类数据集
 
+# 手动实现
+
+# 框架实现
+
+# QA
+
+- Softlabel训练策略
+	- Softmax很难逼近概率1
+- softmax回归和logistics回归
+	- 2项的softmax
+	- 2分类问题，实际输出一个结果
+- 交叉熵，相对熵，互信息  王木头
+- 最大似然 李航
+- 进程数 创建python进程
+- 参数设置的方差
+- accuracy 中为什么不把除以len(y) 做完
+- new.eval()设置为评估模式
+- 过拟合
+- CNN 纹理
+- 输出特征进行L2归一化
+- 处理自己的数据集
+- softmax的解释性，statistic learning
 - 
