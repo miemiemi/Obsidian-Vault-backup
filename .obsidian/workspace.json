@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "邮件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "addbc447445562aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md"
               }
             }
           },
@@ -167,8 +180,14 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "5ac258b224b025f1",
+  "active": "addbc447445562aa",
   "lastOpenFiles": [
+    "邮件.md",
+    "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
+    "Untitled.md",
+    "Untitled/一生一芯/预学习",
+    "Untitled/一生一芯",
+    "Untitled",
     "DeepLearning/Dive Into Deep Learning/Note/10 多层感知机.md",
     "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
@@ -187,23 +206,17 @@
     "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_1.pdf",
-    "邮件.md",
     "README.md",
-    "Untitled.md",
     "DeepLearning/Coursera-Deep Learning/Untitled.md",
     "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "DeepLearning/Dive Into Deep Learning/Asset/未确认 500782.crdownload",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/part-0_2.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/未确认 507025.crdownload",
-    "DeepLearning/Dive Into Deep Learning/Note",
-    "DeepLearning/Dive Into Deep Learning/Asset",
-    "DeepLearning/Dive Into Deep Learning",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture10 几何 （基本表示方法）.md"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md"
   ]
 }
