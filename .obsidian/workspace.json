@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4178349c7fa7c44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +192,11 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "addbc447445562aa",
+  "active": "4178349c7fa7c44e",
   "lastOpenFiles": [
-    "邮件.md",
+    "Untitled/一生一芯/预学习/README.md",
     "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
+    "邮件.md",
     "Untitled.md",
     "Untitled/一生一芯/预学习",
     "Untitled/一生一芯",
@@ -216,7 +229,6 @@
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/汇总.md"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md"
   ]
 }
