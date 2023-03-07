@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "邮件.md",
+                "file": "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "870f99a50654b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "邮件.md",
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "邮件.md",
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "邮件.md"
+                "file": "Untitled/一生一芯/预学习/README.md"
               }
             }
           },
@@ -180,12 +192,13 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "beefbbd88e76acd9",
+  "active": "870f99a50654b9a7",
   "lastOpenFiles": [
-    "Untitled/一生一芯/预学习/读书摘要.md",
-    "Untitled/一生一芯/预学习/读后感.md",
-    "Untitled/一生一芯/预学习/README.md",
+    "Untitled/一生一芯/预学习/Untitled.md",
     "Untitled/一生一芯/预学习/01 “一生一芯”概述.md",
+    "Untitled/一生一芯/预学习/读后感.md",
+    "Untitled/一生一芯/预学习/读书摘要.md",
+    "Untitled/一生一芯/预学习/README.md",
     "邮件.md",
     "Untitled/一生一芯/预学习/读后感",
     "Untitled.md",
@@ -216,7 +229,6 @@
     "DeepLearning/Dive Into Deep Learning/Asset/未确认 500782.crdownload",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/part-0_2.pdf",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md"
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_12.md"
   ]
 }
