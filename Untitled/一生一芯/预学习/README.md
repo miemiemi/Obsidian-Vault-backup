@@ -3,8 +3,8 @@
 
 
 
-- [ ] 每天填写学习记录, 可参考[学习记录表](https://docs.qq.com/sheet/DYUJiT3l2TEREb0Vs?tab=BB08J2)，这是后续流片所必须的
-- [ ] 阅读两篇关于如何提问的文章, 编写一篇不少于800字的读后感
+- [x] 每天填写学习记录, 可参考[学习记录表](https://docs.qq.com/sheet/DYUJiT3l2TEREb0Vs?tab=BB08J2)，这是后续流片所必须的
+- [x] 阅读两篇关于如何提问的文章, 编写一篇不少于800字的读后感
 - [ ] 完成Linux系统安装(PA0)
 - [ ] 完成verilator仿真环境搭建,注意使用特定版本
 - [ ] 完成Linux系统安装和基本使用部分的必做习题
