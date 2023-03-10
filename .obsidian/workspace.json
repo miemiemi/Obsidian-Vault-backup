@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
+                "file": "Untitled/一生一芯/预学习/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md"
+                "file": "Untitled/一生一芯/预学习/README.md"
               }
             }
           },
@@ -254,6 +254,7 @@
   },
   "active": "ae7a51372a26387c",
   "lastOpenFiles": [
+    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
     "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
     "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
     "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md",
@@ -274,7 +275,6 @@
     "Untitled/一生一芯/预学习",
     "Untitled/一生一芯",
     "Untitled",
-    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
     "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
     "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
