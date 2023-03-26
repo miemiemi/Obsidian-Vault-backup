@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45c5821b9190e8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/一生一芯/预学习/06 NEMU代码导读.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -167,10 +180,13 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "a1130155cae46547",
+  "active": "45c5821b9190e8c3",
   "lastOpenFiles": [
-    "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "邮件.md",
     "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
+    "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
     "Untitled/一生一芯/预学习/03 计算机系统的状态机模型.md",
     "Untitled/一生一芯/预学习/04 从C语言到二进制程序.md",
     "Untitled/一生一芯/预学习/06.md",
@@ -190,15 +206,12 @@
     "Untitled/一生一芯/预学习/Untitled.md",
     "Untitled/一生一芯/预学习/读后感.md",
     "Untitled/一生一芯/预学习/读书摘要.md",
-    "邮件.md",
     "Untitled/一生一芯/预学习/读后感",
-    "Untitled.md",
     "Untitled/一生一芯/预学习",
     "Untitled/一生一芯",
     "Untitled",
     "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
     "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
-    "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
     "DeepLearning/Coursera-Machine Learning/Notes",
     "DeepLearning/Coursera-Machine Learning",
     "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf",
