@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="740">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Microsoft YaHei'; font-size:16px;}
+	.st2{fill:none; stroke:#000000; stroke-width:1; stroke-miterlimit:10; stroke-dasharray:2.5,2.5;}
+	.st3{font-family:'Microsoft YaHei'; font-size:16px; font-weight:bold;}
+	.st4{fill:#D0E0EE;}
+</style>
+<g id="文字">
+	<text transform="matrix(1 0 0 1 15 43)" class="st1">姓　　名：</text>
+	<text transform="matrix(1 0 0 1 15 85)" class="st1">证件号码：</text>
+	<text transform="matrix(1 0 0 1 15 127)" class="st1">学　　校：</text>
+	<text transform="matrix(1 0 0 1 15 231)" class="st1">准考证号：</text>
+	<text transform="matrix(1 0 0 1 15 273)" class="st1">总　　分：</text>
+	<text transform="matrix(1 0 0 1 96 315)" class="st1">听　　　力：</text>
+	<text transform="matrix(1 0 0 1 96 357)" class="st1">阅　　　读：</text>
+	<text transform="matrix(1 0 0 1 96 399)" class="st1">写作和翻译：</text>
+	<text transform="matrix(1 0 0 1 15 441)" class="st1">考试时间：</text>
+	<text transform="matrix(1 0 0 1 133 441)" class="st1">年</text>
+	<text transform="matrix(1 0 0 1 168 441)" class="st1">月</text>
+	<text transform="matrix(1 0 0 1 15 531)" class="st1">准考证号：</text>
+	<text transform="matrix(1 0 0 1 15 573)" class="st1">等　　级：</text>
+	<text transform="matrix(1 0 0 1 15 615)" class="st1">考试时间：</text>
+	<text transform="matrix(1 0 0 1 15 677)" class="st1">成绩报告单编号：</text>
+</g>
+<g id="分隔线">
+	<line class="st2" x1="15" y1="153" x2="465" y2="153"/>
+	<line class="st2" x1="15" y1="641" x2="465" y2="641"/>
+</g>
+<g id="矩形">
+	<g id="笔试">
+		<rect class="st4" x="15" y="165" width="450" height="32"/>
+		<text transform="matrix(1 0 0 1 207 187)" class="st3">笔试成绩</text>
+	</g>
+	<g id="口试">
+		<rect class="st4" x="15" y="465" width="450" height="32"/>
+		<text transform="matrix(1 0 0 1 207 487)" class="st3">口试成绩</text>
+	</g>
+</g>
+</svg>
