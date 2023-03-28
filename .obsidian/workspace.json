@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1130155cae46547",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "TEst/微信图片_20230327224935.jpg"
-              }
-            }
-          },
-          {
-            "id": "ad8a66fea53a86c0",
+            "id": "403f82217ea3db54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEst/Untitled.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c5821b9190e8c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc16e31e255f4c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
+                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEst/Untitled.md",
+                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEst/Untitled.md",
+                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEst/Untitled.md"
+                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md"
               }
             }
           },
@@ -195,27 +160,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-language-learner:Open word search panel": false,
       "obsidian-language-learner:Open new word panel": false,
       "obsidian-language-learner:Open statistics": false,
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "ad8a66fea53a86c0",
+  "active": "beefbbd88e76acd9",
   "lastOpenFiles": [
-    "TEst/身份证.jpg.~tmp",
+    "Basic Course/Operating System/Ebooks",
+    "Basic Course/Operating System/JupyterNotes/lec1.ipynb",
+    "Basic Course/Operating System/JupyterNotes/lect1[1].ipynb",
+    "Basic Course/Operating System/JupyterNotes",
+    "Basic Course/Operating System/新建文件夹",
+    "Basic Course/Operating System/Untitled.md",
+    "Basic Course/Operating System/Notes/01 操作系统概述.md",
+    "Basic Course/Operating System/Notes",
+    "TEst/黄正坤-0476-复试材料.md",
+    "Untitled 1.md",
+    "Basic Course/Operating System",
+    "TEst/屏幕截图 2023-03-28 005052.png",
+    "TEst/CET6_202106_220011211222104_1_page-0001.jpg",
+    "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
+    "TEst/黄正坤-0476-资格审查.md",
     "TEst/身份证.jpg",
-    "TEst/微信图片_20230327224935.jpg.~tmp",
+    "TEst/4JIBJI.png",
+    "TEst/数学建模2.jpg.~tmp",
+    "TEst/~学建模1.tmp",
+    "TEst/数学建模1.jpg.~tmp",
+    "TEst/本科成绩单.jpg.~tmp",
+    "Untitled 2.md",
     "TEst/微信图片_20230327224935.jpg",
-    "TEst/CET6_202106_220011211222104_1.pdf",
-    "TEst/Untitled.md",
+    "TEst/成绩单.jpg",
+    "TEst/准考证书.jpg",
+    "TEst/output.jpg",
+    "教育部学历证书电子注册备案表_黄正坤.pdf.md",
     "邮件.md",
     "README.md",
     "Untitled.md",
-    "TEst",
-    "Untitled 1.md",
-    "Untitled 2.md",
     "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
     "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
     "Untitled/一生一芯/预学习/03 计算机系统的状态机模型.md",
@@ -230,17 +212,6 @@
     "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md",
     "DeepLearning/Dive Into Deep Learning/Note/14 数值稳定性 + 模型初始化和激活函数.md",
     "DeepLearning/Dive Into Deep Learning/Note/13 丢弃法.md",
-    "DeepLearning/Dive Into Deep Learning/Note/12 权重衰退.md",
-    "DeepLearning/Dive Into Deep Learning/Note/11 模型选择 + 过拟合和欠拟合.md",
-    "DeepLearning/Dive Into Deep Learning/README.md",
-    "DeepLearning/Dive Into Deep Learning/Note/10 多层感知机.md",
-    "Untitled/一生一芯/预学习/Untitled.md",
-    "Untitled/一生一芯/预学习/读后感",
-    "Untitled/一生一芯/预学习",
-    "Untitled/一生一芯",
-    "Untitled",
-    "DeepLearning/Coursera-Machine Learning/Notes",
-    "DeepLearning/Coursera-Machine Learning",
-    "DeepLearning/Dive Into Deep Learning/Asset/part-0_2.pdf"
+    "DeepLearning/Dive Into Deep Learning/Note/12 权重衰退.md"
   ]
 }
