@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68fb04d1b0104fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Course/Operating System/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -166,15 +178,17 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "beefbbd88e76acd9",
+  "active": "403f82217ea3db54",
   "lastOpenFiles": [
+    "Basic Course/Operating System/README.md",
+    "Basic Course/Operating System/Notes/01 操作系统概述.md",
+    "Basic Course/Operating System/Ebooks/Operating Systems.pdf",
+    "Basic Course/Operating System/Ebooks/preface.pdf",
     "Basic Course/Operating System/Ebooks",
     "Basic Course/Operating System/JupyterNotes/lec1.ipynb",
     "Basic Course/Operating System/JupyterNotes/lect1[1].ipynb",
     "Basic Course/Operating System/JupyterNotes",
     "Basic Course/Operating System/新建文件夹",
-    "Basic Course/Operating System/Untitled.md",
-    "Basic Course/Operating System/Notes/01 操作系统概述.md",
     "Basic Course/Operating System/Notes",
     "TEst/黄正坤-0476-复试材料.md",
     "Untitled 1.md",
@@ -186,9 +200,6 @@
     "TEst/身份证.jpg",
     "TEst/4JIBJI.png",
     "TEst/数学建模2.jpg.~tmp",
-    "TEst/~学建模1.tmp",
-    "TEst/数学建模1.jpg.~tmp",
-    "TEst/本科成绩单.jpg.~tmp",
     "Untitled 2.md",
     "TEst/微信图片_20230327224935.jpg",
     "TEst/成绩单.jpg",
