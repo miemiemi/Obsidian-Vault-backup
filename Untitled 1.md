@@ -53,3 +53,19 @@ During my undergraduate studies, I achieved a national second place in the 2018 
 For my graduation project, I developed a particle system using OpenGL ES on Android smartphones and have a keen interest in PC hardware and extensive experience with computer assembly. Additionally, I have a strong interest in computer architecture, and after completing the preliminary exam for graduate school, I began learning about the One Core Project online, hoping to enhance my knowledge and skills related to ISA and computer abstraction levels.
 
 That concludes my self-introduction. I hope to have the opportunity to study in the laboratory and start interning immediately after the adjustment interview, so as to catch up with the program as soon as possible. Thank you, judges!
+
+
+ -   ### 尊敬的石侃老师：  
+    
+-           您好！看到您昨天的招生信息我给您发过一封邮件！今天看到您又发布了上海科技大学-中科院计算所联培的招生信息，厚着脸皮再给您发送一次邮件自荐，希望能得到一个调剂机会！
+    
+-     
+    
+-           我的名字是黄正坤(男，23岁)，本科就读于吉林大学计算机科学与技术专业，尝试报考计算技术研究所，初试成绩为：306，未达到310的复试分数线。看到您B站动态发出的招生信息，看到您的要求仅是第一志愿报考计算所，故发此邮件咨询您是招收复试学生，还是有调剂或其他联培名额。非常抱歉打扰到您，如果是指招收复试学生您可以直接忽略这封邮件，若是其他情况，以下是我的个人信息。  
+      
+            本科学习期间，获得过2018年全国大学生数学建模竞赛国二，2019年全国大学生数学建模竞赛国一，参与基于胶囊网络的RNA结构预测大创项目，组员一起获得过一项软著，成绩排名为124/374，通过四六级考试。毕业设计偏向工程应用，使用OpenGL ES在安卓手机上尝试粒子系统，对PC硬件有浓厚兴趣，有较熟练装机经验。本科期间对体系结构较为感兴趣，考研初试结束后开始在线学习一生一芯项目，希望能在进组前增进ISA与其下计算机抽象层级的相关知识技能。  
+      
+            冒昧写邮件闻讯，还请您见谅！若是有机会的话，可马上进组实习，已经落后很多希望能加紧追赶！感谢您能阅读这份邮件，附件为个人简历，期待您的回复！
+
+
+上海科技大学-中科院计算所联培的招生信息，厚着脸皮再给您发送一次邮件自荐，希望能得到一个调剂机会！
