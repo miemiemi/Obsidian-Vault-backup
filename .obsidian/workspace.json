@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "邮件.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEst/准考证书.jpg",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEst/准考证书.jpg",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEst/准考证书.jpg"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -178,20 +177,26 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "beefbbd88e76acd9",
+  "active": "403f82217ea3db54",
   "lastOpenFiles": [
-    "TEst/屏幕截图 2023-03-28 005052.png",
-    "TEst/成绩单.jpg",
+    "Untitled.md",
     "TEst/本科成绩单.jpg",
+    "TEst/成绩单.jpg",
+    "TEst/黄正坤-0476-复试材料.md",
+    "TEst/黄正坤-0476-资格审查.md",
+    "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
+    "TEst/屏幕截图 2023-03-28 005052.png",
+    "TEst/身份证.jpg",
+    "TEst/数学建模1.jpg",
+    "TEst/数学建模2.jpg",
+    "TEst/微信图片_20230327224935.jpg",
+    "Untitled 1.md",
+    "README.md",
+    "邮件.md",
     "TEst/4JIBJI.png",
     "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/160330143.png",
-    "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/171217035.png",
-    "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/blue_error.png",
-    "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/CET_result_201612.svg",
-    "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/photo.jpg",
     "复式注意事项.md",
     "Basic Course/Operating System/Ebooks/P020230317432928581776.pdf",
-    "邮件.md",
     "教育部学历证书电子注册备案表_黄正坤.pdf.md",
     "Basic Course/Operating System/README.md",
     "Basic Course/Operating System/Notes/01 操作系统概述.md",
@@ -204,15 +209,8 @@
     "Basic Course/Operating System/Ebooks/04.pdf",
     "Basic Course/Operating System/Ebooks/05.pdf",
     "Basic Course/Operating System/Ebooks/06.pdf",
-    "Untitled.md",
-    "Untitled 1.md",
-    "README.md",
     "Evga 3060ti xc 拆解.md",
     "Untitled 2.md",
-    "TEst/黄正坤-0476-复试材料.md",
-    "TEst/CET6_202106_220011211222104_1_page-0001.jpg",
-    "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
-    "TEst/黄正坤-0476-资格审查.md",
     "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
     "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
     "Untitled/一生一芯/预学习/03 计算机系统的状态机模型.md",
