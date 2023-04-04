@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
+                "file": "邮件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beab5bb8e059b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Course/Operating System/Notes/01 操作系统概述.md"
+                "file": "Untitled 3.md"
               }
             }
           },
@@ -167,8 +180,13 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "403f82217ea3db54",
+  "active": "beab5bb8e059b360",
   "lastOpenFiles": [
+    "邮件.md",
+    "Untitled 3.md",
+    "教育部学历证书电子注册备案表_黄正坤.pdf.md",
+    "Basic Course/Operating System/README.md",
+    "Basic Course/Operating System/Notes/01 操作系统概述.md",
     "Basic Course/Operating System/Ebooks/07.pdf",
     "Basic Course/Operating System/Ebooks/08.pdf",
     "Basic Course/Operating System/Ebooks/intro/01.pdf",
@@ -179,15 +197,10 @@
     "Basic Course/Operating System/Ebooks/05.pdf",
     "Basic Course/Operating System/Ebooks/06.pdf",
     "Basic Course/Operating System/Ebooks/03.pdf",
-    "Basic Course/Operating System/README.md",
-    "Basic Course/Operating System/Ebooks/01.pdf",
-    "Basic Course/Operating System/Notes/01 操作系统概述.md",
     "Untitled.md",
-    "教育部学历证书电子注册备案表_黄正坤.pdf.md",
     "Untitled 1.md",
     "README.md",
     "Evga 3060ti xc 拆解.md",
-    "邮件.md",
     "Untitled 2.md",
     "TEst/黄正坤-0476-复试材料.md",
     "TEst/屏幕截图 2023-03-28 005052.png",
