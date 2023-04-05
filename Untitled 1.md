@@ -46,13 +46,13 @@
 
 Dear judges,
 
-My name is Huang Zhengkun and I am honored to be participating in this interview. I graduated from Jilin University with a major in Computer Science and Technology.
+My name is Huang Zhengkun and I am honored to participate in this interview. I graduated from Jilin University with a major in Computer Science.
 
-During my undergraduate studies, I initially studied Communication Engineering and later passed the transfer exam to enter the Computer Science and Technology major. Through courses and experimentation, I learned various programming languages such as C++, Java, and Python, and actively learned other software development-related knowledge , such as Object Oriented Programming, Design pattern, Software Engineering. In addition, I also studied low-level abstract knowledge such as computer organization, operating system, and compilers: principles.
+During my undergraduate studies, I initially studied Communication Engineering and later passed the transfer exam to enter the Computer Science  major. Through courses and experimentation, I learned programming languages such as C++, Java, and Python, and actively learned other software development-related knowledge , such as Object Oriented Programming, Design pattern, Software Engineering. In addition, I also studied low-level abstract knowledge such as computer organization, operating system, and compilers: principles.
 
-For my graduation project, I implemented a particle system using OpenGL ES on Android smartphones. I have a strong interest in PC hardware and am skilled in computer assembly. Additionally, I am interested in computer architecture, and after passing the preliminary exam , I began to learn more about ISA courses.
+For my graduation project, I implemented a particle system using OpenGL ES on Android smartphones. I have a strong interest in PC hardware and am skilled in personal computer assembly. Additionally, I am interested in computer architecture, and after passing the preliminary exam , I began to learn more about ISA courses.
 
-That concludes my self-introduction. I hope to have the opportunity to study at the Institute of High Energy Physics and start my internship immediately after the adjustment interview, in order to catch up with my peers as soon as possible. Thank you, judges!
+That concludes my self-introduction. I hope to have the opportunity to study at Institute of High Energy Physics .And i want to get up to work here soon, in order to catch up with my peers. Thank you, judges!
 
 
  -   ### 尊敬的石侃老师：  
