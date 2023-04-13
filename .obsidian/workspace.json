@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "403f82217ea3db54",
+            "id": "beab5bb8e059b360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复式注意事项.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "beab5bb8e059b360",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "TEst/准考证书.jpg"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复式注意事项.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "复式注意事项.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复式注意事项.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -177,11 +167,16 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "403f82217ea3db54",
+  "active": "beab5bb8e059b360",
   "lastOpenFiles": [
     "Untitled 2.md",
+    "TEst/准考证书.jpg",
     "Untitled 1.md",
+    "自我介绍.md",
     "Untitled.md",
+    "README.md",
+    "Evga 3060ti xc 拆解.md",
+    "复式注意事项.md",
     "TEst/本科成绩单.jpg",
     "TEst/成绩单.jpg",
     "TEst/黄正坤-0476-复试材料.md",
@@ -192,11 +187,8 @@
     "TEst/数学建模1.jpg",
     "TEst/数学建模2.jpg",
     "TEst/微信图片_20230327224935.jpg",
-    "README.md",
     "邮件.md",
     "TEst/4JIBJI.png",
-    "TEst/全国大学英语四、六级考试（含口试）成绩 本人查询 - 中国教育考试网_files/160330143.png",
-    "复式注意事项.md",
     "Basic Course/Operating System/Ebooks/P020230317432928581776.pdf",
     "教育部学历证书电子注册备案表_黄正坤.pdf.md",
     "Basic Course/Operating System/README.md",
@@ -210,7 +202,6 @@
     "Basic Course/Operating System/Ebooks/04.pdf",
     "Basic Course/Operating System/Ebooks/05.pdf",
     "Basic Course/Operating System/Ebooks/06.pdf",
-    "Evga 3060ti xc 拆解.md",
     "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
     "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
     "Untitled/一生一芯/预学习/03 计算机系统的状态机模型.md",
@@ -222,7 +213,6 @@
     "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
     "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
     "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
-    "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md",
-    "DeepLearning/Dive Into Deep Learning/Note/14 数值稳定性 + 模型初始化和激活函数.md"
+    "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md"
   ]
 }
