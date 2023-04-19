@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "驾校/科目一/基础篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce2efcdb2c739748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "驾校/科目一/课程 二.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "ce2efcdb2c739748",
+  "active": "d0070fdafb6bd5bb",
   "lastOpenFiles": [
     "驾校/科目一/基础篇.md",
     "驾校/科目一/课程 二.md",
