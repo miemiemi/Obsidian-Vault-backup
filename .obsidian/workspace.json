@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "d0070fdafb6bd5bb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
     "Untitled/一生一芯/预学习/读后感.md",
     "Untitled/一生一芯/预学习/读书摘要.md",
@@ -180,7 +182,6 @@
     "BESIII.md",
     "Evga 3060ti xc 拆解.md",
     "README.md",
-    "Untitled.md",
     "Untitled 2.md",
     "驾校/科目一/课程 二.md",
     "驾校/科目一/基础篇.md",
@@ -213,7 +214,6 @@
     "Untitled/一生一芯/预学习/05 程序的执行和模拟器.md",
     "Untitled/一生一芯/预学习/03 计算机系统的状态机模型.md",
     "Untitled/一生一芯/预学习/04 从C语言到二进制程序.md",
-    "Untitled/一生一芯/预学习/06.md",
-    "Untitled/一生一芯/预学习/02 Linux入门教程.md"
+    "Untitled/一生一芯/预学习/06.md"
   ]
 }
