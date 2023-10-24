@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "628b1e8c4ec10ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研项目的风险管理，未写在ppt中的文字部分.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +200,10 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "6efb2477ce254bac",
+  "active": "628b1e8c4ec10ab0",
   "lastOpenFiles": [
+    "Evga 3060ti xc 拆解.md",
+    "README.md",
     "Untitled.md",
     "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
@@ -201,8 +215,6 @@
     "邮件.md",
     "自我介绍.md",
     "BESIII.md",
-    "Evga 3060ti xc 拆解.md",
-    "README.md",
     "科研项目的风险管理，未写在ppt中的文字部分.md",
     "驾校/科目一/课程 二.md",
     "驾校/科目一/基础篇.md",
