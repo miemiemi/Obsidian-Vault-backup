@@ -35,9 +35,11 @@
             "id": "628b1e8c4ec10ab0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "TEst/本科成绩单.jpg"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEst/本科成绩单.jpg",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEst/本科成绩单.jpg",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEst/本科成绩单.jpg"
+                "file": "Untitled.md"
               }
             }
           },
@@ -200,6 +202,10 @@
   },
   "active": "628b1e8c4ec10ab0",
   "lastOpenFiles": [
+    "DeepLearning/Coursera-Machine Learning/Notes/04 Gradient Descent.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
+    "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
+    "TEst/本科成绩单.jpg",
     "TEst/4JIBJI.png",
     "DeepLearning/Dive Into Deep Learning/README.md",
     "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
@@ -224,12 +230,9 @@
     "邮件.md",
     "自我介绍.md",
     "BESIII.md",
-    "驾校/科目一/课程 二.md",
-    "驾校/科目一/基础篇.md",
     "驾校/科目一",
     "驾校",
     "TEst/准考证书.jpg",
-    "TEst/本科成绩单.jpg",
     "TEst/成绩单.jpg",
     "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
     "TEst/屏幕截图 2023-03-28 005052.png",
