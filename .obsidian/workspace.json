@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34d8a1b6a1778084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evga 3060ti xc 拆解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Evga 3060ti xc 拆解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Evga 3060ti xc 拆解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Evga 3060ti xc 拆解.md"
               }
             }
           },
@@ -200,8 +212,9 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "628b1e8c4ec10ab0",
+  "active": "34d8a1b6a1778084",
   "lastOpenFiles": [
+    "README.md",
     "DeepLearning/Coursera-Machine Learning/Notes/04 Gradient Descent.md",
     "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
     "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
@@ -218,7 +231,6 @@
     "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
     "科研项目的风险管理，未写在ppt中的文字部分.md",
     "Evga 3060ti xc 拆解.md",
-    "README.md",
     "Untitled.md",
     "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
