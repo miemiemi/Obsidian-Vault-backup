@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83d520221bed62f8",
+        "id": "ad232a8a6743e7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "d0070fdafb6bd5bb",
+            "id": "03fbc6c8ef051f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研项目的风险管理，未写在ppt中的文字部分.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6efb2477ce254bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研项目的风险管理，未写在ppt中的文字部分.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "628b1e8c4ec10ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d8a1b6a1778084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evga 3060ti xc 拆解.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evga 3060ti xc 拆解.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evga 3060ti xc 拆解.md",
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evga 3060ti xc 拆解.md"
+                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md"
               }
             }
           },
@@ -212,53 +175,53 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "34d8a1b6a1778084",
+  "active": "03fbc6c8ef051f5b",
   "lastOpenFiles": [
-    "README.md",
-    "DeepLearning/Coursera-Machine Learning/Notes/04 Gradient Descent.md",
-    "DeepLearning/Coursera-Machine Learning/Notes/03 Regression Model.md",
-    "DeepLearning/Coursera-Machine Learning/Notes/02 Supervised vs. Unsupervised Machine Learning.md",
-    "TEst/本科成绩单.jpg",
-    "TEst/4JIBJI.png",
-    "DeepLearning/Dive Into Deep Learning/README.md",
-    "DeepLearning/Dive Into Deep Learning/Note/09 Softmax回归.md",
-    "DeepLearning/Dive Into Deep Learning/Note/08 线性回归 + 基础优化算法.md",
-    "DeepLearning/Dive Into Deep Learning/Note/07 自动求导.md",
-    "DeepLearning/Dive Into Deep Learning/Note/06 矩阵计算.md",
-    "DeepLearning/Dive Into Deep Learning/Note/05 线性代数.md",
-    "DeepLearning/Dive Into Deep Learning/Note/04 数据操作.md",
-    "DeepLearning/Dive Into Deep Learning/Note/02 深度学习介绍.md",
-    "DeepLearning/Dive Into Deep Learning/Note/01 课程安排.md",
-    "科研项目的风险管理，未写在ppt中的文字部分.md",
-    "Evga 3060ti xc 拆解.md",
-    "Untitled.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_11.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_12.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_13.pdf",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture9 着色（插值、高级纹理映射）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture10 几何 （基本表示方法）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture12 几何（网格处理）阴影图.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture7 着色（光照与基本着色模型）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture6 光栅化（深度测试与抗锯齿）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture5 光栅化（三角形的离散化）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_06.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture4 变换 （模型、视图、投影）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture3 变换 （二维与三维）.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture2 向量与线性代数.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_09.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_11.md",
     "Computer Graphics/在线报告/GAMES Webinar 245-视觉专题-高林-视觉编辑.md",
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
-    "Untitled/一生一芯/预学习/读后感.md",
-    "Untitled/一生一芯/预学习/读书摘要.md",
-    "Untitled/一生一芯/预学习/06 NEMU代码导读.md",
-    "复式注意事项.md",
-    "教育部学历证书电子注册备案表_黄正坤.pdf.md",
-    "邮件.md",
-    "自我介绍.md",
-    "BESIII.md",
-    "驾校/科目一",
-    "驾校",
-    "TEst/准考证书.jpg",
-    "TEst/成绩单.jpg",
+    "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md",
+    "DeepLearning/Dive Into Deep Learning/Note/14 数值稳定性 + 模型初始化和激活函数.md",
+    "DeepLearning/Dive Into Deep Learning/Note/13 丢弃法.md",
+    "DeepLearning/Dive Into Deep Learning/Note/12 权重衰退.md",
+    "DeepLearning/Dive Into Deep Learning/Note/11 模型选择 + 过拟合和欠拟合.md",
     "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
-    "TEst/屏幕截图 2023-03-28 005052.png",
-    "TEst/身份证.jpg",
     "TEst/数学建模1.jpg",
     "TEst/数学建模2.jpg",
     "TEst/微信图片_20230327224935.jpg",
+    "TEst/学位.jpg",
+    "TEst/CET6_202106_220011211222104_1.pdf",
+    "TEst/CET6_202106_220011211222104_1_page-0001.jpg",
+    "TEst/output.jpg",
+    "TEst/本科成绩单.jpg",
+    "TEst/4JIBJI.png",
+    "驾校/科目一",
+    "驾校",
+    "TEst/准考证书.jpg",
     "Basic Course/Operating System/Ebooks/P020230317432928581776.pdf",
     "Basic Course/Operating System/Ebooks/07.pdf",
     "Basic Course/Operating System/Ebooks/08.pdf",
-    "Basic Course/Operating System/Ebooks/intro/01.pdf",
-    "Basic Course/Operating System/Ebooks/intro",
-    "Basic Course/Operating System/Ebooks/Chapter1",
-    "Basic Course/Operating System/Ebooks/新建文件夹",
-    "Basic Course/Operating System/Ebooks/04.pdf"
+    "Basic Course/Operating System/Ebooks/intro/01.pdf"
   ]
 }

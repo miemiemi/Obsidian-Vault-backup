@@ -10,6 +10,7 @@ synthesize manipulate
 		- Special Effect
 	- Animations
 	- Design
+		- Computer aided Design
 		- CAD Autodesk Gallary
 		- Ikea 75% of catalog is rendered imagery
 	- Visualization
