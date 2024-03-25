@@ -18,8 +18,10 @@ synthesize manipulate
 	- Virtual Reality
 	- Digital Illustration
 	- Simulation
+		- 模拟仿真实际是动画？（
 	- Graphical User Interfaces
 	- Typography
+		- 字体设计
 - Fundamental Intellectual Challenges
 	- Creates and interacts with realistic virtual word
 	- Requires understanding of all aspects of physical world
@@ -34,7 +36,7 @@ synthesize manipulate
 # Course Topics
 
 - Rasterization
-	- Project geometry primitives (3D triangles / polygons) onto the screen
+	- Project **geometry primitives (3D triangles / polygons) onto the screen**
 	- Break projected primitives into fragments (pixels)
 	- Gold standard in Video Games (Real-time Applications)
 - Curves and Meshes
