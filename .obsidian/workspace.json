@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d95ff99d2db4cd25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -175,7 +188,7 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "03fbc6c8ef051f5b",
+  "active": "d95ff99d2db4cd25",
   "lastOpenFiles": [
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
