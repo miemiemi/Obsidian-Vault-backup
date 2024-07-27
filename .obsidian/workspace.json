@@ -8,31 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03fbc6c8ef051f5b",
+            "id": "d95ff99d2db4cd25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
-                "mode": "source",
-                "source": false
+                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf"
               }
             }
           },
           {
-            "id": "d95ff99d2db4cd25",
+            "id": "d90b239b6b21e692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf"
               }
             }
           },
@@ -190,15 +185,25 @@
   },
   "active": "d95ff99d2db4cd25",
   "lastOpenFiles": [
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_02.pdf",
+    "Basic Course/Operating System/Ebooks/intro/01.pdf",
+    "Basic Course/Operating System/Ebooks/03.pdf",
+    "Basic Course/Operating System/Ebooks/08.pdf",
+    "Basic Course/Operating System/Ebooks/07.pdf",
+    "Basic Course/Operating System/Ebooks/06.pdf",
+    "Basic Course/Operating System/Ebooks/05.pdf",
+    "Basic Course/Operating System/Ebooks/04.pdf",
+    "Basic Course/Csapp/大纲内容.md",
+    "Basic Course/Operating System/Ebooks/SOPHNET 云开发空间用户手册.pdf",
+    "Basic Course/Operating System/Ebooks/P020230409768881376394.pdf",
+    "Basic Course/Operating System/Ebooks/Operating Systems.pdf",
+    "Basic Course/Operating System/Ebooks/homework01.pdf",
+    "DeepLearning/Dive Into Deep Learning/README.md",
+    "Untitled.md",
+    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_08.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_07.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_05.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Annotation/GAMES101_Lecture_04.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_11.pdf",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_12.pdf",
-    "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/assets/GAMES101_Lecture_13.pdf",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture9 着色（插值、高级纹理映射）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture10 几何 （基本表示方法）.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/lecture11 几何（曲线与曲面）.md",
@@ -216,25 +221,15 @@
     "Computer Graphics/在线报告/复杂几何结构和精细几何细节的递归深度生成模型.md",
     "DeepLearning/Dive Into Deep Learning/Note/15 实战：Kaggle房价预测 + 课程竞赛：加州2020年房价预测.md",
     "DeepLearning/Dive Into Deep Learning/Note/14 数值稳定性 + 模型初始化和激活函数.md",
-    "DeepLearning/Dive Into Deep Learning/Note/13 丢弃法.md",
-    "DeepLearning/Dive Into Deep Learning/Note/12 权重衰退.md",
-    "DeepLearning/Dive Into Deep Learning/Note/11 模型选择 + 过拟合和欠拟合.md",
     "TEst/黄正坤-吉林大学-考研调剂简历 _page-0001.jpg",
     "TEst/数学建模1.jpg",
     "TEst/数学建模2.jpg",
     "TEst/微信图片_20230327224935.jpg",
     "TEst/学位.jpg",
-    "TEst/CET6_202106_220011211222104_1.pdf",
     "TEst/CET6_202106_220011211222104_1_page-0001.jpg",
     "TEst/output.jpg",
     "TEst/本科成绩单.jpg",
     "TEst/4JIBJI.png",
-    "驾校/科目一",
-    "驾校",
-    "TEst/准考证书.jpg",
-    "Basic Course/Operating System/Ebooks/P020230317432928581776.pdf",
-    "Basic Course/Operating System/Ebooks/07.pdf",
-    "Basic Course/Operating System/Ebooks/08.pdf",
-    "Basic Course/Operating System/Ebooks/intro/01.pdf"
+    "TEst/准考证书.jpg"
   ]
 }
