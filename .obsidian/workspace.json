@@ -11,9 +11,11 @@
             "id": "d95ff99d2db4cd25",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Course/Operating System/Ebooks/intro/02.pdf"
+                "file": "Untitled.md"
               }
             }
           },
@@ -185,6 +187,7 @@
   },
   "active": "d95ff99d2db4cd25",
   "lastOpenFiles": [
+    "Basic Course/Operating System/Ebooks/intro/02.pdf",
     "Basic Course/Operating System/Ebooks/intro/01.pdf",
     "Basic Course/Operating System/Ebooks/03.pdf",
     "Basic Course/Operating System/Ebooks/08.pdf",
@@ -196,7 +199,6 @@
     "Basic Course/Operating System/Ebooks/SOPHNET 云开发空间用户手册.pdf",
     "Basic Course/Operating System/Ebooks/P020230409768881376394.pdf",
     "Basic Course/Operating System/Ebooks/Operating Systems.pdf",
-    "Basic Course/Operating System/Ebooks/homework01.pdf",
     "DeepLearning/Dive Into Deep Learning/README.md",
     "Untitled.md",
     "Computer Graphics/Gamse/Mooc/GAMES101-现代计算机图形学入门/Notes/Lecture1 计算机图形学概述.md",
